@@ -1,0 +1,3895 @@
+{
+  "generatedAt": "2026-11-06",
+  "appVersion": "0.4.0",
+  "androidVersionCode": 6,
+  "notice": "Source inventory date only; not a new factual review or government endorsement.",
+  "states": [
+    {
+      "code": "AL",
+      "name": {
+        "en": "Alabama",
+        "es": "Alabama"
+      },
+      "manualUrl": "https://www.alea.gov/sites/default/files/Updated%20ALEA%20Driver%27s%20Manual%2012-5-24.pdf"
+    },
+    {
+      "code": "AK",
+      "name": {
+        "en": "Alaska",
+        "es": "Alaska"
+      },
+      "manualUrl": "https://dmv.alaska.gov/media/t5ef5vi2/dlman.pdf"
+    },
+    {
+      "code": "AZ",
+      "name": {
+        "en": "Arizona",
+        "es": "Arizona"
+      },
+      "manualUrl": "https://apps.azdot.gov/files/mvd/mvd-forms-lib/99-0117.pdf"
+    },
+    {
+      "code": "AR",
+      "name": {
+        "en": "Arkansas",
+        "es": "Arkansas"
+      },
+      "manualUrl": "https://dps.arkansas.gov/law-enforcement/arkansas-state-police/services-programs/driver-examination/"
+    },
+    {
+      "code": "CA",
+      "name": {
+        "en": "California",
+        "es": "California"
+      },
+      "manualUrl": "https://www.dmv.ca.gov/portal/driver-handbooks/"
+    },
+    {
+      "code": "CO",
+      "name": {
+        "en": "Colorado",
+        "es": "Colorado"
+      },
+      "manualUrl": "https://dmv.colorado.gov/drivereducation"
+    },
+    {
+      "code": "CT",
+      "name": {
+        "en": "Connecticut",
+        "es": "Connecticut"
+      },
+      "manualUrl": "https://portal.ct.gov/dmv/-/media/dmv/dmv-pdfs/drivers-manual-english.pdf"
+    },
+    {
+      "code": "DE",
+      "name": {
+        "en": "Delaware",
+        "es": "Delaware"
+      },
+      "manualUrl": "https://dmv.de.gov/services/includes/manual_allDrivers.shtml"
+    },
+    {
+      "code": "FL",
+      "name": {
+        "en": "Florida",
+        "es": "Florida"
+      },
+      "manualUrl": "https://www.flhsmv.gov/pdf/handbooks/englishdriverhandbook.pdf"
+    },
+    {
+      "code": "GA",
+      "name": {
+        "en": "Georgia",
+        "es": "Georgia"
+      },
+      "manualUrl": "https://dds.georgia.gov/drivers-manual"
+    },
+    {
+      "code": "HI",
+      "name": {
+        "en": "Hawaii",
+        "es": "Hawái"
+      },
+      "manualUrl": "https://hidot.hawaii.gov/highways/safety/hawaii-drivers-manual/"
+    },
+    {
+      "code": "ID",
+      "name": {
+        "en": "Idaho",
+        "es": "Idaho"
+      },
+      "manualUrl": "https://itd.idaho.gov/wp-content/uploads/2016/06/driver_manual.pdf"
+    },
+    {
+      "code": "IL",
+      "name": {
+        "en": "Illinois",
+        "es": "Illinois"
+      },
+      "manualUrl": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf"
+    },
+    {
+      "code": "IN",
+      "name": {
+        "en": "Indiana",
+        "es": "Indiana"
+      },
+      "manualUrl": "https://www.in.gov/bmv/licenses-permits-ids/learners-permits-and-drivers-licenses-overview/learners-permit/drivers-manual/"
+    },
+    {
+      "code": "IA",
+      "name": {
+        "en": "Iowa",
+        "es": "Iowa"
+      },
+      "manualUrl": "https://iowadot.gov/drivers-licenses-ids/driver-education/manuals-practice-tests/drivers-manual"
+    },
+    {
+      "code": "KS",
+      "name": {
+        "en": "Kansas",
+        "es": "Kansas"
+      },
+      "manualUrl": "https://www.ksrevenue.gov/pdf/dlhb.pdf"
+    },
+    {
+      "code": "KY",
+      "name": {
+        "en": "Kentucky",
+        "es": "Kentucky"
+      },
+      "manualUrl": "https://drive.ky.gov/"
+    },
+    {
+      "code": "LA",
+      "name": {
+        "en": "Louisiana",
+        "es": "Luisiana"
+      },
+      "manualUrl": "https://expresslane.la.gov/omv/resources/driver-manuals/"
+    },
+    {
+      "code": "ME",
+      "name": {
+        "en": "Maine",
+        "es": "Maine"
+      },
+      "manualUrl": "https://www1.maine.gov/sos/bmv/driver-licenses-and-ids/car-license/motorist-handbook"
+    },
+    {
+      "code": "MD",
+      "name": {
+        "en": "Maryland",
+        "es": "Maryland"
+      },
+      "manualUrl": "https://mva.maryland.gov/licenses-ids/driver-education-safety/maryland-drivers-manuals"
+    },
+    {
+      "code": "MA",
+      "name": {
+        "en": "Massachusetts",
+        "es": "Massachusetts"
+      },
+      "manualUrl": "https://www.mass.gov/doc/english-drivers-manual/download"
+    },
+    {
+      "code": "MI",
+      "name": {
+        "en": "Michigan",
+        "es": "Míchigan"
+      },
+      "manualUrl": "https://www.michigan.gov/sos/resources/forms/what-every-driver-must-know"
+    },
+    {
+      "code": "MN",
+      "name": {
+        "en": "Minnesota",
+        "es": "Minnesota"
+      },
+      "manualUrl": "https://assets.dps.mn.gov/files/dvs/dvs-class-d-drivers-manual-english.pdf"
+    },
+    {
+      "code": "MS",
+      "name": {
+        "en": "Mississippi",
+        "es": "Misisipi"
+      },
+      "manualUrl": "https://www.driverservicebureau.dps.ms.gov/sites/default/files/2025-02/1.15.2025%20Revised%20MDPS%20Driver%27s%20Manual.pdf"
+    },
+    {
+      "code": "MO",
+      "name": {
+        "en": "Missouri",
+        "es": "Misuri"
+      },
+      "manualUrl": "https://dor.mo.gov/driver-license/guide/"
+    },
+    {
+      "code": "MT",
+      "name": {
+        "en": "Montana",
+        "es": "Montana"
+      },
+      "manualUrl": "https://mvdmt.gov/forms-driver-license/"
+    },
+    {
+      "code": "NE",
+      "name": {
+        "en": "Nebraska",
+        "es": "Nebraska"
+      },
+      "manualUrl": "https://dmv.nebraska.gov/sites/default/files/engdrivermanual.pdf"
+    },
+    {
+      "code": "NV",
+      "name": {
+        "en": "Nevada",
+        "es": "Nevada"
+      },
+      "manualUrl": "https://dmv.nv.gov/pdfforms/dlbook.pdf"
+    },
+    {
+      "code": "NH",
+      "name": {
+        "en": "New Hampshire",
+        "es": "Nuevo Hampshire"
+      },
+      "manualUrl": "https://www.dmv.nh.gov/sites/g/files/ehbemt416/files/inline-documents/nhdm.pdf"
+    },
+    {
+      "code": "NJ",
+      "name": {
+        "en": "New Jersey",
+        "es": "Nueva Jersey"
+      },
+      "manualUrl": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf"
+    },
+    {
+      "code": "NM",
+      "name": {
+        "en": "New Mexico",
+        "es": "Nuevo México"
+      },
+      "manualUrl": "https://www.mvd.newmexico.gov/resources/mvd-procedures-manuals/download-manuals/"
+    },
+    {
+      "code": "NY",
+      "name": {
+        "en": "New York",
+        "es": "Nueva York"
+      },
+      "manualUrl": "https://dmv.ny.gov/new-york-state-drivers-manual-practice-tests"
+    },
+    {
+      "code": "NC",
+      "name": {
+        "en": "North Carolina",
+        "es": "Carolina del Norte"
+      },
+      "manualUrl": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Pages/handbooks.aspx"
+    },
+    {
+      "code": "ND",
+      "name": {
+        "en": "North Dakota",
+        "es": "Dakota del Norte"
+      },
+      "manualUrl": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf"
+    },
+    {
+      "code": "OH",
+      "name": {
+        "en": "Ohio",
+        "es": "Ohio"
+      },
+      "manualUrl": "https://ohio.gov/residents/driving-and-transportation/driving-in-ohio"
+    },
+    {
+      "code": "OK",
+      "name": {
+        "en": "Oklahoma",
+        "es": "Oklahoma"
+      },
+      "manualUrl": "https://oklahoma.gov/service/all-pages/driver-study-hub.html"
+    },
+    {
+      "code": "OR",
+      "name": {
+        "en": "Oregon",
+        "es": "Oregón"
+      },
+      "manualUrl": "https://www.oregon.gov/odot/DMV/Pages/Form/Manuals.aspx"
+    },
+    {
+      "code": "PA",
+      "name": {
+        "en": "Pennsylvania",
+        "es": "Pensilvania"
+      },
+      "manualUrl": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf"
+    },
+    {
+      "code": "RI",
+      "name": {
+        "en": "Rhode Island",
+        "es": "Rhode Island"
+      },
+      "manualUrl": "https://dmv.ri.gov/licenses-permits-ids/permits-tests/operator-manuals?language=en"
+    },
+    {
+      "code": "SC",
+      "name": {
+        "en": "South Carolina",
+        "es": "Carolina del Sur"
+      },
+      "manualUrl": "https://dmv.sc.gov/sites/scdmv/files/2026-04/Driver%27s%20Manual.pdf"
+    },
+    {
+      "code": "SD",
+      "name": {
+        "en": "South Dakota",
+        "es": "Dakota del Sur"
+      },
+      "manualUrl": "https://www.sd.gov/sys_attachment.do?sys_id=709bcdfa47406e10237fbd51026d43a9"
+    },
+    {
+      "code": "TN",
+      "name": {
+        "en": "Tennessee",
+        "es": "Tennessee"
+      },
+      "manualUrl": "https://www.tn.gov/content/dam/tn/safety/documents/DL_Manual.pdf"
+    },
+    {
+      "code": "TX",
+      "name": {
+        "en": "Texas",
+        "es": "Texas"
+      },
+      "manualUrl": "https://www.dps.texas.gov/InternetForms/Forms/DL-7.pdf"
+    },
+    {
+      "code": "UT",
+      "name": {
+        "en": "Utah",
+        "es": "Utah"
+      },
+      "manualUrl": "https://dld.utah.gov/resources/"
+    },
+    {
+      "code": "VT",
+      "name": {
+        "en": "Vermont",
+        "es": "Vermont"
+      },
+      "manualUrl": "https://dmv.vermont.gov/document/drivers-license-manual"
+    },
+    {
+      "code": "VA",
+      "name": {
+        "en": "Virginia",
+        "es": "Virginia"
+      },
+      "manualUrl": "https://www.dmv.virginia.gov/licenses-ids/exams/manual"
+    },
+    {
+      "code": "WA",
+      "name": {
+        "en": "Washington",
+        "es": "Washington"
+      },
+      "manualUrl": "https://dol.wa.gov/driver-licenses-and-permits/driver-training-and-testing/driver-guides/washington-state-driver-guide-text-only"
+    },
+    {
+      "code": "WV",
+      "name": {
+        "en": "West Virginia",
+        "es": "Virginia Occidental"
+      },
+      "manualUrl": "https://dmv.wv.gov/drivers"
+    },
+    {
+      "code": "WI",
+      "name": {
+        "en": "Wisconsin",
+        "es": "Wisconsin"
+      },
+      "manualUrl": "https://wisconsindot.gov/documents/dmv/shared/bds126-motorists-handbook.pdf"
+    },
+    {
+      "code": "WY",
+      "name": {
+        "en": "Wyoming",
+        "es": "Wyoming"
+      },
+      "manualUrl": "https://dot.state.wy.us/home/driver_license_records/formsapplications/driver-manuals.html"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://apps.azdot.gov/files/mvd/mvd-forms-lib/99-0117.pdf",
+      "titles": [
+        {
+          "en": "Arizona: official driving resources",
+          "es": "Recursos oficiales de conducción de Arizona"
+        },
+        {
+          "en": "Arizona: cited parking rule",
+          "es": "Arizona: regla de estacionamiento citada"
+        },
+        {
+          "en": "Arizona: official driving source",
+          "es": "Arizona: fuente oficial de conducción"
+        },
+        {
+          "en": "Arizona: driver handbook / driving resources",
+          "es": "Arizona: manual / recursos de conducción"
+        },
+        {
+          "en": "Arizona: handbook publication",
+          "es": "Arizona: publicación del manual"
+        }
+      ],
+      "states": [
+        "AZ"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://archive.legmt.gov/bills/mca/title_0610/chapter_0080/part_0030/section_0540/0610-0080-0030-0540.html",
+      "titles": [
+        {
+          "en": "Montana: cited parking rule",
+          "es": "Montana: regla de estacionamiento citada"
+        }
+      ],
+      "states": [
+        "MT"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://assets.dps.mn.gov/files/dvs/dvs-class-d-drivers-manual-english.pdf",
+      "titles": [
+        {
+          "en": "Minnesota: official driving resources",
+          "es": "Recursos oficiales de conducción de Minnesota"
+        },
+        {
+          "en": "Minnesota: cited parking rule",
+          "es": "Minnesota: regla de estacionamiento citada"
+        },
+        {
+          "en": "Minnesota: official driving source",
+          "es": "Minnesota: fuente oficial de conducción"
+        },
+        {
+          "en": "Minnesota: driver handbook / driving resources",
+          "es": "Minnesota: manual / recursos de conducción"
+        },
+        {
+          "en": "Minnesota: handbook publication",
+          "es": "Minnesota: publicación del manual"
+        },
+        {
+          "en": "Minnesota: knowledge-test requirements reference",
+          "es": "Minnesota: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "MN"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://azdot.gov/mvd/services/driver-license-ID/permit-test",
+      "titles": [
+        {
+          "en": "Arizona: knowledge-test requirements reference",
+          "es": "Arizona: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "AZ"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://code.wvlegislature.gov/17B-2-3A/",
+      "titles": [
+        {
+          "en": "West Virginia: official driving source",
+          "es": "Virginia Occidental: fuente oficial de conducción"
+        }
+      ],
+      "states": [
+        "WV"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://code.wvlegislature.gov/17C-13-3/",
+      "titles": [
+        {
+          "en": "West Virginia: cited parking rule",
+          "es": "Virginia Occidental: regla de estacionamiento citada"
+        }
+      ],
+      "states": [
+        "WV"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://code.wvlegislature.gov/17C-15-2/",
+      "titles": [
+        {
+          "en": "West Virginia: official driving source",
+          "es": "Virginia Occidental: fuente oficial de conducción"
+        }
+      ],
+      "states": [
+        "WV"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://codes.ohio.gov/ohio-revised-code/chapter-4511",
+      "titles": [
+        {
+          "en": "Ohio: official driving source",
+          "es": "Ohio: fuente oficial de conducción"
+        }
+      ],
+      "states": [
+        "OH"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.13",
+      "titles": [
+        {
+          "en": "Ohio: official driving source",
+          "es": "Ohio: fuente oficial de conducción"
+        }
+      ],
+      "states": [
+        "OH"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.30",
+      "titles": [
+        {
+          "en": "Ohio: official driving source",
+          "es": "Ohio: fuente oficial de conducción"
+        }
+      ],
+      "states": [
+        "OH"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.39",
+      "titles": [
+        {
+          "en": "Ohio: official driving source",
+          "es": "Ohio: fuente oficial de conducción"
+        }
+      ],
+      "states": [
+        "OH"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.45",
+      "titles": [
+        {
+          "en": "Ohio: official driving source",
+          "es": "Ohio: fuente oficial de conducción"
+        }
+      ],
+      "states": [
+        "OH"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.62",
+      "titles": [
+        {
+          "en": "Ohio: official driving source",
+          "es": "Ohio: fuente oficial de conducción"
+        }
+      ],
+      "states": [
+        "OH"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.68",
+      "titles": [
+        {
+          "en": "Ohio: cited parking rule",
+          "es": "Ohio: regla de estacionamiento citada"
+        },
+        {
+          "en": "Ohio: official driving source",
+          "es": "Ohio: fuente oficial de conducción"
+        }
+      ],
+      "states": [
+        "OH"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.69",
+      "titles": [
+        {
+          "en": "Ohio: official driving source",
+          "es": "Ohio: fuente oficial de conducción"
+        }
+      ],
+      "states": [
+        "OH"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.72",
+      "titles": [
+        {
+          "en": "Ohio: official driving source",
+          "es": "Ohio: fuente oficial de conducción"
+        }
+      ],
+      "states": [
+        "OH"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.73",
+      "titles": [
+        {
+          "en": "Ohio: official driving source",
+          "es": "Ohio: fuente oficial de conducción"
+        }
+      ],
+      "states": [
+        "OH"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://codes.ohio.gov/ohio-revised-code/section-4511.75",
+      "titles": [
+        {
+          "en": "Ohio: official driving source",
+          "es": "Ohio: fuente oficial de conducción"
+        }
+      ],
+      "states": [
+        "OH"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://comptroller.aem.tn.extglb.tn.gov/veteran/veteran-benefits/tn-state-benefits/motor-services/parking-privileges.html",
+      "titles": [
+        {
+          "en": "Tennessee: cited parking rule",
+          "es": "Tennessee: regla de estacionamiento citada"
+        }
+      ],
+      "states": [
+        "TN"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol05_Ch0261-0319/HRS0291C/HRS_0291C-0116.htm",
+      "titles": [
+        {
+          "en": "Hawaii: cited parking rule",
+          "es": "Hawái: regla de estacionamiento citada"
+        }
+      ],
+      "states": [
+        "HI"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://dds.georgia.gov/drivers-manual",
+      "titles": [
+        {
+          "en": "Georgia: official driving resources",
+          "es": "Recursos oficiales de conducción de Georgia"
+        },
+        {
+          "en": "Georgia: cited parking rule",
+          "es": "Georgia: regla de estacionamiento citada"
+        },
+        {
+          "en": "Georgia: official driving source",
+          "es": "Georgia: fuente oficial de conducción"
+        },
+        {
+          "en": "Georgia: driver handbook / driving resources",
+          "es": "Georgia: manual / recursos de conducción"
+        },
+        {
+          "en": "Georgia: handbook publication",
+          "es": "Georgia: publicación del manual"
+        },
+        {
+          "en": "Georgia: knowledge-test requirements reference",
+          "es": "Georgia: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "GA"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://delcode.delaware.gov/title21/c041/sc10/index.html",
+      "titles": [
+        {
+          "en": "Delaware: cited parking rule",
+          "es": "Delaware: regla de estacionamiento citada"
+        }
+      ],
+      "states": [
+        "DE"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://dld.utah.gov/resources/",
+      "titles": [
+        {
+          "en": "Utah: driver handbook / driving resources",
+          "es": "Utah: manual / recursos de conducción"
+        }
+      ],
+      "states": [
+        "UT"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://dld.utah.gov/wp-content/uploads/Driver-Handbook-2026.pdf",
+      "titles": [
+        {
+          "en": "Utah: official driving resources",
+          "es": "Recursos oficiales de conducción de Utah"
+        },
+        {
+          "en": "Utah: official driving source",
+          "es": "Utah: fuente oficial de conducción"
+        },
+        {
+          "en": "Utah: handbook publication",
+          "es": "Utah: publicación del manual"
+        }
+      ],
+      "states": [
+        "UT"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://dld.utah.gov/written-knowledge-test/",
+      "titles": [
+        {
+          "en": "Utah: knowledge-test requirements reference",
+          "es": "Utah: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "UT"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://dmv.alaska.gov/media/t5ef5vi2/dlman.pdf",
+      "titles": [
+        {
+          "en": "Alaska: official driving resources",
+          "es": "Recursos oficiales de conducción de Alaska"
+        },
+        {
+          "en": "Alaska: cited parking rule",
+          "es": "Alaska: regla de estacionamiento citada"
+        },
+        {
+          "en": "Alaska: official driving source",
+          "es": "Alaska: fuente oficial de conducción"
+        },
+        {
+          "en": "Alaska: driver handbook / driving resources",
+          "es": "Alaska: manual / recursos de conducción"
+        },
+        {
+          "en": "Alaska: handbook publication",
+          "es": "Alaska: publicación del manual"
+        }
+      ],
+      "states": [
+        "AK"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://dmv.colorado.gov/drivereducation",
+      "titles": [
+        {
+          "en": "Colorado: driver handbook / driving resources",
+          "es": "Colorado: manual / recursos de conducción"
+        }
+      ],
+      "states": [
+        "CO"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://dmv.colorado.gov/sites/default/files/documents/DR_2337_Jan2025.pdf",
+      "titles": [
+        {
+          "en": "Colorado: official driving resources",
+          "es": "Recursos oficiales de conducción de Colorado"
+        },
+        {
+          "en": "Colorado: official driving source",
+          "es": "Colorado: fuente oficial de conducción"
+        },
+        {
+          "en": "Colorado: handbook publication",
+          "es": "Colorado: publicación del manual"
+        },
+        {
+          "en": "Colorado: knowledge-test requirements reference",
+          "es": "Colorado: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "CO"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://dmv.colorado.gov/sites/dmv/files/documents/Driver_Handbook_2023.pdf",
+      "titles": [
+        {
+          "en": "Colorado: cited parking rule",
+          "es": "Colorado: regla de estacionamiento citada"
+        }
+      ],
+      "states": [
+        "CO"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://dmv.de.gov/DriverServices/drivers_license/index.shtml?dc=dr_lic_written",
+      "titles": [
+        {
+          "en": "Delaware: knowledge-test requirements reference",
+          "es": "Delaware: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "DE"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://dmv.de.gov/forms/driver_serv_forms/pdfs/dr_frm_manual.pdf?071119",
+      "titles": [
+        {
+          "en": "Delaware: official driving resources",
+          "es": "Recursos oficiales de conducción de Delaware"
+        },
+        {
+          "en": "Delaware: official driving source",
+          "es": "Delaware: fuente oficial de conducción"
+        },
+        {
+          "en": "Delaware: handbook publication",
+          "es": "Delaware: publicación del manual"
+        }
+      ],
+      "states": [
+        "DE"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://dmv.de.gov/services/includes/manual_allDrivers.shtml",
+      "titles": [
+        {
+          "en": "Delaware: driver handbook / driving resources",
+          "es": "Delaware: manual / recursos de conducción"
+        }
+      ],
+      "states": [
+        "DE"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://dmv.nebraska.gov/sites/default/files/engdrivermanual.pdf",
+      "titles": [
+        {
+          "en": "Nebraska: official driving resources",
+          "es": "Recursos oficiales de conducción de Nebraska"
+        },
+        {
+          "en": "Nebraska: cited parking rule",
+          "es": "Nebraska: regla de estacionamiento citada"
+        },
+        {
+          "en": "Nebraska: official driving source",
+          "es": "Nebraska: fuente oficial de conducción"
+        },
+        {
+          "en": "Nebraska: driver handbook / driving resources",
+          "es": "Nebraska: manual / recursos de conducción"
+        },
+        {
+          "en": "Nebraska: handbook publication",
+          "es": "Nebraska: publicación del manual"
+        }
+      ],
+      "states": [
+        "NE"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://dmv.nebraska.gov/sites/dmv.nebraska.gov/files/doc/dls/ENTIRE_EXAMINERS_MANUAL.pdf",
+      "titles": [
+        {
+          "en": "Nebraska: knowledge-test requirements reference",
+          "es": "Nebraska: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "NE"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://dmv.nv.gov/pdfforms/dlbook.pdf",
+      "titles": [
+        {
+          "en": "Nevada: official driving resources",
+          "es": "Recursos oficiales de conducción de Nevada"
+        },
+        {
+          "en": "Nevada: cited parking rule",
+          "es": "Nevada: regla de estacionamiento citada"
+        },
+        {
+          "en": "Nevada: official driving source",
+          "es": "Nevada: fuente oficial de conducción"
+        },
+        {
+          "en": "Nevada: driver handbook / driving resources",
+          "es": "Nevada: manual / recursos de conducción"
+        },
+        {
+          "en": "Nevada: handbook publication",
+          "es": "Nevada: publicación del manual"
+        }
+      ],
+      "states": [
+        "NV"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://dmv.nv.gov/wtestadult.htm",
+      "titles": [
+        {
+          "en": "Nevada: knowledge-test requirements reference",
+          "es": "Nevada: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "NV"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://dmv.ny.gov/book/export/html/1556",
+      "titles": [
+        {
+          "en": "Driver licenses & test requirements",
+          "es": "Licencias y requisitos del examen"
+        },
+        {
+          "en": "New York: knowledge-test requirements reference",
+          "es": "Nueva York: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "NY"
+      ],
+      "shared": true
+    },
+    {
+      "url": "https://dmv.ny.gov/new-york-state-drivers-manual-and-practice-tests/chapter-10-special-driving-conditions",
+      "titles": [
+        {
+          "en": "Special driving conditions",
+          "es": "Condiciones especiales de conducción"
+        }
+      ],
+      "states": [
+        "NY"
+      ],
+      "shared": true
+    },
+    {
+      "url": "https://dmv.ny.gov/new-york-state-drivers-manual-and-practice-tests/chapter-11-sharing-the-road",
+      "titles": [
+        {
+          "en": "Sharing the road",
+          "es": "Compartir la vía"
+        }
+      ],
+      "states": [
+        "NY"
+      ],
+      "shared": true
+    },
+    {
+      "url": "https://dmv.ny.gov/new-york-state-drivers-manual-and-practice-tests/chapter-4-traffic-control",
+      "titles": [
+        {
+          "en": "Traffic control",
+          "es": "Control del tránsito"
+        }
+      ],
+      "states": [
+        "NY"
+      ],
+      "shared": true
+    },
+    {
+      "url": "https://dmv.ny.gov/new-york-state-drivers-manual-and-practice-tests/chapter-5-intersections-and-turns",
+      "titles": [
+        {
+          "en": "Intersections and turns",
+          "es": "Intersecciones y giros"
+        }
+      ],
+      "states": [
+        "NY"
+      ],
+      "shared": true
+    },
+    {
+      "url": "https://dmv.ny.gov/new-york-state-drivers-manual-and-practice-tests/chapter-6-passing",
+      "titles": [
+        {
+          "en": "Passing",
+          "es": "Adelantamiento"
+        }
+      ],
+      "states": [
+        "NY"
+      ],
+      "shared": true
+    },
+    {
+      "url": "https://dmv.ny.gov/new-york-state-drivers-manual-and-practice-tests/chapter-7-parallel-parking",
+      "titles": [
+        {
+          "en": "Parallel parking",
+          "es": "Estacionamiento en paralelo"
+        }
+      ],
+      "states": [
+        "NY"
+      ],
+      "shared": true
+    },
+    {
+      "url": "https://dmv.ny.gov/new-york-state-drivers-manual-and-practice-tests/chapter-8-defensive-driving",
+      "titles": [
+        {
+          "en": "Defensive driving",
+          "es": "Conducción defensiva"
+        }
+      ],
+      "states": [
+        "NY"
+      ],
+      "shared": true
+    },
+    {
+      "url": "https://dmv.ny.gov/new-york-state-drivers-manual-and-practice-tests/chapter-9-alcohol-and-other-drugs",
+      "titles": [
+        {
+          "en": "Alcohol and other drugs",
+          "es": "Alcohol y otras drogas"
+        }
+      ],
+      "states": [
+        "NY"
+      ],
+      "shared": true
+    },
+    {
+      "url": "https://dmv.ny.gov/new-york-state-drivers-manual-and-practice-tests/road-signs-you-must-know",
+      "titles": [
+        {
+          "en": "Road signs you must know",
+          "es": "Señales de tránsito que debes conocer"
+        }
+      ],
+      "states": [
+        "NY"
+      ],
+      "shared": true
+    },
+    {
+      "url": "https://dmv.ny.gov/new-york-state-drivers-manual-practice-tests",
+      "titles": [
+        {
+          "en": "New York: driver handbook / driving resources",
+          "es": "Nueva York: manual / recursos de conducción"
+        }
+      ],
+      "states": [
+        "NY"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://dmv.ri.gov/licenses-permits-ids/permits-tests/operator-manuals?language=en",
+      "titles": [
+        {
+          "en": "Rhode Island: driver handbook / driving resources",
+          "es": "Rhode Island: manual / recursos de conducción"
+        }
+      ],
+      "states": [
+        "RI"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://dmv.ri.gov/media/966/download?language=en",
+      "titles": [
+        {
+          "en": "Rhode Island: official driving resources",
+          "es": "Recursos oficiales de conducción de Rhode Island"
+        },
+        {
+          "en": "Rhode Island: official driving source",
+          "es": "Rhode Island: fuente oficial de conducción"
+        },
+        {
+          "en": "Rhode Island: handbook publication",
+          "es": "Rhode Island: publicación del manual"
+        },
+        {
+          "en": "Rhode Island: knowledge-test requirements reference",
+          "es": "Rhode Island: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "RI"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://dmv.sc.gov/sites/scdmv/files/2026-04/Driver%27s%20Manual.pdf",
+      "titles": [
+        {
+          "en": "South Carolina: official driving resources",
+          "es": "Recursos oficiales de conducción de Carolina del Sur"
+        },
+        {
+          "en": "South Carolina: official driving source",
+          "es": "Carolina del Sur: fuente oficial de conducción"
+        },
+        {
+          "en": "South Carolina: driver handbook / driving resources",
+          "es": "Carolina del Sur: manual / recursos de conducción"
+        },
+        {
+          "en": "South Carolina: handbook publication",
+          "es": "Carolina del Sur: publicación del manual"
+        },
+        {
+          "en": "South Carolina: knowledge-test requirements reference",
+          "es": "Carolina del Sur: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "SC"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://dmv.vermont.gov/document/drivers-license-manual",
+      "titles": [
+        {
+          "en": "Vermont: official driving resources",
+          "es": "Recursos oficiales de conducción de Vermont"
+        },
+        {
+          "en": "Vermont: driver handbook / driving resources",
+          "es": "Vermont: manual / recursos de conducción"
+        }
+      ],
+      "states": [
+        "VT"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://dmv.vermont.gov/sites/dmv/files/documents/VN-007-Drivers_Manual.pdf",
+      "titles": [
+        {
+          "en": "Vermont: knowledge-test requirements reference",
+          "es": "Vermont: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "VT"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://dmv.wv.gov/drivers",
+      "titles": [
+        {
+          "en": "West Virginia: driver handbook / driving resources",
+          "es": "Virginia Occidental: manual / recursos de conducción"
+        }
+      ],
+      "states": [
+        "WV"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://dol.wa.gov/driver-licenses-and-permits/driver-training-and-testing/do-i-need-take-test",
+      "titles": [
+        {
+          "en": "Washington: knowledge-test requirements reference",
+          "es": "Washington: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "WA"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://dol.wa.gov/driver-licenses-and-permits/driver-training-and-testing/driver-guides/washington-state-driver-guide-text-only",
+      "titles": [
+        {
+          "en": "Washington: official driving resources",
+          "es": "Recursos oficiales de conducción de Washington"
+        },
+        {
+          "en": "Washington: cited parking rule",
+          "es": "Washington: regla de estacionamiento citada"
+        },
+        {
+          "en": "Washington: official driving source",
+          "es": "Washington: fuente oficial de conducción"
+        },
+        {
+          "en": "Washington: driver handbook / driving resources",
+          "es": "Washington: manual / recursos de conducción"
+        },
+        {
+          "en": "Washington: handbook publication",
+          "es": "Washington: publicación del manual"
+        }
+      ],
+      "states": [
+        "WA"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://dor.mo.gov/driver-license/guide/",
+      "titles": [
+        {
+          "en": "Missouri: driver handbook / driving resources",
+          "es": "Misuri: manual / recursos de conducción"
+        }
+      ],
+      "states": [
+        "MO"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://dor.mo.gov/faq/driver-license/general.html",
+      "titles": [
+        {
+          "en": "Missouri: knowledge-test requirements reference",
+          "es": "Misuri: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "MO"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://dor.mo.gov/forms/Driver%20Guide.pdf",
+      "titles": [
+        {
+          "en": "Missouri: official driving resources",
+          "es": "Recursos oficiales de conducción de Misuri"
+        },
+        {
+          "en": "Missouri: cited parking rule",
+          "es": "Misuri: regla de estacionamiento citada"
+        },
+        {
+          "en": "Missouri: official driving source",
+          "es": "Misuri: fuente oficial de conducción"
+        },
+        {
+          "en": "Missouri: handbook publication",
+          "es": "Misuri: publicación del manual"
+        }
+      ],
+      "states": [
+        "MO"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://dot.state.wy.us/files/live/sites/wydot/files/shared/Driver_Services/Help%20Documents%20and%20Manuals/2021_DriverManual_web_ClassC_w%20cover.pdf",
+      "titles": [
+        {
+          "en": "Wyoming: official driving resources",
+          "es": "Recursos oficiales de conducción de Wyoming"
+        },
+        {
+          "en": "Wyoming: official driving source",
+          "es": "Wyoming: fuente oficial de conducción"
+        },
+        {
+          "en": "Wyoming: handbook publication",
+          "es": "Wyoming: publicación del manual"
+        },
+        {
+          "en": "Wyoming: knowledge-test requirements reference",
+          "es": "Wyoming: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "WY"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://dot.state.wy.us/home/driver_license_records/formsapplications/driver-manuals.html",
+      "titles": [
+        {
+          "en": "Wyoming: driver handbook / driving resources",
+          "es": "Wyoming: manual / recursos de conducción"
+        }
+      ],
+      "states": [
+        "WY"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://dps.arkansas.gov/law-enforcement/arkansas-state-police/services-programs/driver-examination/",
+      "titles": [
+        {
+          "en": "Arkansas: driver handbook / driving resources",
+          "es": "Arkansas: manual / recursos de conducción"
+        }
+      ],
+      "states": [
+        "AR"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://drive.ky.gov/",
+      "titles": [
+        {
+          "en": "Kentucky: driver handbook / driving resources",
+          "es": "Kentucky: manual / recursos de conducción"
+        }
+      ],
+      "states": [
+        "KY"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://drive.ky.gov/Drivers/Documents/Parent%20Guide%20-Teaching-Your%20-Teen%20.pdf",
+      "titles": [
+        {
+          "en": "Kentucky: cited parking rule",
+          "es": "Kentucky: regla de estacionamiento citada"
+        }
+      ],
+      "states": [
+        "KY"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://expresslane.la.gov/omv/resources/driver-manuals/",
+      "titles": [
+        {
+          "en": "Louisiana: driver handbook / driving resources",
+          "es": "Luisiana: manual / recursos de conducción"
+        }
+      ],
+      "states": [
+        "LA"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://gc.nh.gov/rsa/html/XXI/265/265-69.htm",
+      "titles": [
+        {
+          "en": "New Hampshire: cited parking rule",
+          "es": "Nuevo Hampshire: regla de estacionamiento citada"
+        }
+      ],
+      "states": [
+        "NH"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://gc.nh.gov/rsa/html/XXI/265/265-mrg.htm",
+      "titles": [
+        {
+          "en": "New Hampshire: official driving source",
+          "es": "Nuevo Hampshire: fuente oficial de conducción"
+        }
+      ],
+      "states": [
+        "NH"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://hidot.hawaii.gov/highways/files/2024/11/2023-Hawaii-Drivers-Manual_5.375x8.375_Final-r3-Digital-071924web.pdf",
+      "titles": [
+        {
+          "en": "Hawaii: official driving resources",
+          "es": "Recursos oficiales de conducción de Hawái"
+        },
+        {
+          "en": "Hawaii: official driving source",
+          "es": "Hawái: fuente oficial de conducción"
+        },
+        {
+          "en": "Hawaii: handbook publication",
+          "es": "Hawái: publicación del manual"
+        },
+        {
+          "en": "Hawaii: knowledge-test requirements reference",
+          "es": "Hawái: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "HI"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://hidot.hawaii.gov/highways/safety/hawaii-drivers-manual/",
+      "titles": [
+        {
+          "en": "Hawaii: driver handbook / driving resources",
+          "es": "Hawái: manual / recursos de conducción"
+        }
+      ],
+      "states": [
+        "HI"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://iowadot.gov/dmv-services/frequently-asked-questions-dmv",
+      "titles": [
+        {
+          "en": "Iowa: knowledge-test requirements reference",
+          "es": "Iowa: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "IA"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://iowadot.gov/drivers-licenses-ids/driver-education/manuals-practice-tests/drivers-manual",
+      "titles": [
+        {
+          "en": "Iowa: driver handbook / driving resources",
+          "es": "Iowa: manual / recursos de conducción"
+        }
+      ],
+      "states": [
+        "IA"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://iowadot.gov/media/7308/download?inline=",
+      "titles": [
+        {
+          "en": "Iowa: official driving resources",
+          "es": "Recursos oficiales de conducción de Iowa"
+        },
+        {
+          "en": "Iowa: official driving source",
+          "es": "Iowa: fuente oficial de conducción"
+        },
+        {
+          "en": "Iowa: handbook publication",
+          "es": "Iowa: publicación del manual"
+        }
+      ],
+      "states": [
+        "IA"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://itd.idaho.gov/wp-content/uploads/2016/06/driver_manual.pdf",
+      "titles": [
+        {
+          "en": "Idaho: official driving resources",
+          "es": "Recursos oficiales de conducción de Idaho"
+        },
+        {
+          "en": "Idaho: cited parking rule",
+          "es": "Idaho: regla de estacionamiento citada"
+        },
+        {
+          "en": "Idaho: official driving source",
+          "es": "Idaho: fuente oficial de conducción"
+        },
+        {
+          "en": "Idaho: driver handbook / driving resources",
+          "es": "Idaho: manual / recursos de conducción"
+        },
+        {
+          "en": "Idaho: handbook publication",
+          "es": "Idaho: publicación del manual"
+        }
+      ],
+      "states": [
+        "ID"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://itd.idaho.gov/wp-content/uploads/2025/03/driver_manual.pdf",
+      "titles": [
+        {
+          "en": "Idaho: knowledge-test requirements reference",
+          "es": "Idaho: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "ID"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://ksrevenue.gov/pdf/dlhb.pdf",
+      "titles": [
+        {
+          "en": "Kansas: knowledge-test requirements reference",
+          "es": "Kansas: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "KS"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://le.utah.gov/xcode/title41/chapter6a/C41-6a_1800010118000101.pdf",
+      "titles": [
+        {
+          "en": "Utah: cited parking rule",
+          "es": "Utah: regla de estacionamiento citada"
+        }
+      ],
+      "states": [
+        "UT"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&Search_String=1006.061&URL=0300-0399%2F0316%2FSections%2F0316.1945.html",
+      "titles": [
+        {
+          "en": "Florida: cited parking rule",
+          "es": "Florida: regla de estacionamiento citada"
+        }
+      ],
+      "states": [
+        "FL"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://legislature.vermont.gov/statutes/fullchapter/23/013",
+      "titles": [
+        {
+          "en": "Vermont: official driving source",
+          "es": "Vermont: fuente oficial de conducción"
+        }
+      ],
+      "states": [
+        "VT"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://legislature.vermont.gov/statutes/section/23/013/01104",
+      "titles": [
+        {
+          "en": "Vermont: cited parking rule",
+          "es": "Vermont: regla de estacionamiento citada"
+        }
+      ],
+      "states": [
+        "VT"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://media.ark.org/dps/Arkansas-DL-Study-Guide-English_10152026.pdf",
+      "titles": [
+        {
+          "en": "Arkansas: official driving resources",
+          "es": "Recursos oficiales de conducción de Arkansas"
+        },
+        {
+          "en": "Arkansas: cited parking rule",
+          "es": "Arkansas: regla de estacionamiento citada"
+        },
+        {
+          "en": "Arkansas: official driving source",
+          "es": "Arkansas: fuente oficial de conducción"
+        },
+        {
+          "en": "Arkansas: handbook publication",
+          "es": "Arkansas: publicación del manual"
+        },
+        {
+          "en": "Arkansas: knowledge-test requirements reference",
+          "es": "Arkansas: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "AR"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gtr&section=21-1003",
+      "titles": [
+        {
+          "en": "Maryland: cited parking rule",
+          "es": "Maryland: regla de estacionamiento citada"
+        }
+      ],
+      "states": [
+        "MD"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://mutcd.fhwa.dot.gov/",
+      "titles": [
+        {
+          "en": "FHWA: national traffic control standards",
+          "es": "FHWA: normas nacionales de control del tránsito"
+        }
+      ],
+      "states": [],
+      "shared": true
+    },
+    {
+      "url": "https://mva.maryland.gov/Documents/DL-002.pdf",
+      "titles": [
+        {
+          "en": "Maryland: official driving resources",
+          "es": "Recursos oficiales de conducción de Maryland"
+        },
+        {
+          "en": "Maryland: official driving source",
+          "es": "Maryland: fuente oficial de conducción"
+        },
+        {
+          "en": "Maryland: handbook publication",
+          "es": "Maryland: publicación del manual"
+        }
+      ],
+      "states": [
+        "MD"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://mva.maryland.gov/licenses-ids/driver-education-safety/maryland-drivers-manuals",
+      "titles": [
+        {
+          "en": "Maryland: driver handbook / driving resources",
+          "es": "Maryland: manual / recursos de conducción"
+        }
+      ],
+      "states": [
+        "MD"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://mva.maryland.gov/licenses-ids/prepare-drivers-license-test",
+      "titles": [
+        {
+          "en": "Maryland: knowledge-test requirements reference",
+          "es": "Maryland: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "MD"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://mvdmt.gov/forms-driver-license/",
+      "titles": [
+        {
+          "en": "Montana: driver handbook / driving resources",
+          "es": "Montana: manual / recursos de conducción"
+        }
+      ],
+      "states": [
+        "MT"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://mvdmt.gov/wp-content/uploads/2026/05/25-0100M-Montana-Driver-Manual-English-05.26.pdf",
+      "titles": [
+        {
+          "en": "Montana: official driving resources",
+          "es": "Recursos oficiales de conducción de Montana"
+        },
+        {
+          "en": "Montana: official driving source",
+          "es": "Montana: fuente oficial de conducción"
+        },
+        {
+          "en": "Montana: handbook publication",
+          "es": "Montana: publicación del manual"
+        },
+        {
+          "en": "Montana: knowledge-test requirements reference",
+          "es": "Montana: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "MT"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://nj.gov/mvc/license/sample_knowledge_test.htm",
+      "titles": [
+        {
+          "en": "New Jersey: knowledge-test requirements reference",
+          "es": "Nueva Jersey: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "NJ"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://ohio.gov/residents/driving-and-transportation/driving-in-ohio",
+      "titles": [
+        {
+          "en": "Ohio: official driving resources",
+          "es": "Recursos oficiales de conducción de Ohio"
+        },
+        {
+          "en": "Ohio: driver handbook / driving resources",
+          "es": "Ohio: manual / recursos de conducción"
+        }
+      ],
+      "states": [
+        "OH"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://ohiobmv.gov/dl-gdl.aspx",
+      "titles": [
+        {
+          "en": "Ohio: knowledge-test requirements reference",
+          "es": "Ohio: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "OH"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://oklahoma.gov/content/dam/service-oklahoma/Documents/OklahomaDriverManual.pdf",
+      "titles": [
+        {
+          "en": "Oklahoma: official driving resources",
+          "es": "Recursos oficiales de conducción de Oklahoma"
+        },
+        {
+          "en": "Oklahoma: official driving source",
+          "es": "Oklahoma: fuente oficial de conducción"
+        },
+        {
+          "en": "Oklahoma: handbook publication",
+          "es": "Oklahoma: publicación del manual"
+        }
+      ],
+      "states": [
+        "OK"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://oklahoma.gov/service/all-pages/driver-study-hub.html",
+      "titles": [
+        {
+          "en": "Oklahoma: cited parking rule",
+          "es": "Oklahoma: regla de estacionamiento citada"
+        },
+        {
+          "en": "Oklahoma: driver handbook / driving resources",
+          "es": "Oklahoma: manual / recursos de conducción"
+        }
+      ],
+      "states": [
+        "OK"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://oklahoma.gov/service/popular-services/written-test.html",
+      "titles": [
+        {
+          "en": "Oklahoma: knowledge-test requirements reference",
+          "es": "Oklahoma: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "OK"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://online.dmv.alaska.gov/practiceknowledgetest/",
+      "titles": [
+        {
+          "en": "Alaska: knowledge-test requirements reference",
+          "es": "Alaska: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "AK"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://portal.ct.gov/dmv/-/media/dmv/dmv-pdfs/drivers-manual-english.pdf",
+      "titles": [
+        {
+          "en": "Connecticut: official driving resources",
+          "es": "Recursos oficiales de conducción de Connecticut"
+        },
+        {
+          "en": "Connecticut: cited parking rule",
+          "es": "Connecticut: regla de estacionamiento citada"
+        },
+        {
+          "en": "Connecticut: official driving source",
+          "es": "Connecticut: fuente oficial de conducción"
+        },
+        {
+          "en": "Connecticut: driver handbook / driving resources",
+          "es": "Connecticut: manual / recursos de conducción"
+        },
+        {
+          "en": "Connecticut: handbook publication",
+          "es": "Connecticut: publicación del manual"
+        }
+      ],
+      "states": [
+        "CT"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://portal.ct.gov/dmv/licenses-permits-ids/take-knowledge-vision-test",
+      "titles": [
+        {
+          "en": "Connecticut: knowledge-test requirements reference",
+          "es": "Connecticut: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "CT"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://public.powerdms.com/LADPSC/documents/347039",
+      "titles": [
+        {
+          "en": "Louisiana: official driving resources",
+          "es": "Recursos oficiales de conducción de Luisiana"
+        },
+        {
+          "en": "Louisiana: cited parking rule",
+          "es": "Luisiana: regla de estacionamiento citada"
+        },
+        {
+          "en": "Louisiana: official driving source",
+          "es": "Luisiana: fuente oficial de conducción"
+        },
+        {
+          "en": "Louisiana: handbook publication",
+          "es": "Luisiana: publicación del manual"
+        },
+        {
+          "en": "Louisiana: knowledge-test requirements reference",
+          "es": "Luisiana: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "LA"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://statutes.capitol.texas.gov/?code=TN&chapter=TN.544&artSec=544.007&tab=1",
+      "titles": [
+        {
+          "en": "Texas: official driving source",
+          "es": "Texas: fuente oficial de conducción"
+        }
+      ],
+      "states": [
+        "TX"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://statutes.capitol.texas.gov/?code=TN&chapter=TN.544&tab=1",
+      "titles": [
+        {
+          "en": "Texas: official driving source",
+          "es": "Texas: fuente oficial de conducción"
+        }
+      ],
+      "states": [
+        "TX"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://statutes.capitol.texas.gov/?code=TN&chapter=TN.545&tab=1",
+      "titles": [
+        {
+          "en": "Texas: official driving source",
+          "es": "Texas: fuente oficial de conducción"
+        }
+      ],
+      "states": [
+        "TX"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://transportation.wv.gov/DMV/DMVFormSearch/Drivers_Licensing_Handbook_web.pdf",
+      "titles": [
+        {
+          "en": "West Virginia: knowledge-test requirements reference",
+          "es": "Virginia Occidental: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "WV"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://webapps.transportation.wv.gov/TWS/DMV/Drivers_Licensing_Handbook.pdf",
+      "titles": [
+        {
+          "en": "West Virginia: official driving resources",
+          "es": "Recursos oficiales de conducción de Virginia Occidental"
+        },
+        {
+          "en": "West Virginia: official driving source",
+          "es": "Virginia Occidental: fuente oficial de conducción"
+        },
+        {
+          "en": "West Virginia: handbook publication",
+          "es": "Virginia Occidental: publicación del manual"
+        }
+      ],
+      "states": [
+        "WV"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://webserver.rilegislature.gov/Statutes/TITLE31/31-21/31-21-4.htm",
+      "titles": [
+        {
+          "en": "Rhode Island: cited parking rule",
+          "es": "Rhode Island: regla de estacionamiento citada"
+        }
+      ],
+      "states": [
+        "RI"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://wisconsindot.gov/documents/dmv/shared/bds126-motorists-handbook.pdf",
+      "titles": [
+        {
+          "en": "Wisconsin: official driving resources",
+          "es": "Recursos oficiales de conducción de Wisconsin"
+        },
+        {
+          "en": "Wisconsin: cited parking rule",
+          "es": "Wisconsin: regla de estacionamiento citada"
+        },
+        {
+          "en": "Wisconsin: official driving source",
+          "es": "Wisconsin: fuente oficial de conducción"
+        },
+        {
+          "en": "Wisconsin: driver handbook / driving resources",
+          "es": "Wisconsin: manual / recursos de conducción"
+        },
+        {
+          "en": "Wisconsin: handbook publication",
+          "es": "Wisconsin: publicación del manual"
+        },
+        {
+          "en": "Wisconsin: knowledge-test requirements reference",
+          "es": "Wisconsin: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "WI"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://wp.kentuckystatepolice.ky.gov/wp-content/uploads/2026/07/Kentucky-Driver-Manual_Updated_7-23-26.pdf",
+      "titles": [
+        {
+          "en": "Kentucky: official driving resources",
+          "es": "Recursos oficiales de conducción de Kentucky"
+        },
+        {
+          "en": "Kentucky: official driving source",
+          "es": "Kentucky: fuente oficial de conducción"
+        },
+        {
+          "en": "Kentucky: handbook publication",
+          "es": "Kentucky: publicación del manual"
+        },
+        {
+          "en": "Kentucky: knowledge-test requirements reference",
+          "es": "Kentucky: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "KY"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.alea.gov/sites/default/files/Updated%20ALEA%20Driver%27s%20Manual%2012-5-24.pdf",
+      "titles": [
+        {
+          "en": "Alabama: official driving resources",
+          "es": "Recursos oficiales de conducción de Alabama"
+        },
+        {
+          "en": "Alabama: cited parking rule",
+          "es": "Alabama: regla de estacionamiento citada"
+        },
+        {
+          "en": "Alabama: official driving source",
+          "es": "Alabama: fuente oficial de conducción"
+        },
+        {
+          "en": "Alabama: driver handbook / driving resources",
+          "es": "Alabama: manual / recursos de conducción"
+        },
+        {
+          "en": "Alabama: handbook publication",
+          "es": "Alabama: publicación del manual"
+        },
+        {
+          "en": "Alabama: knowledge-test requirements reference",
+          "es": "Alabama: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "AL"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.dmv.ca.gov/portal/driver-handbooks/",
+      "titles": [
+        {
+          "en": "California: official driving resources",
+          "es": "Recursos oficiales de conducción de California"
+        },
+        {
+          "en": "California: driver handbook / driving resources",
+          "es": "California: manual / recursos de conducción"
+        }
+      ],
+      "states": [
+        "CA"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/learners-permits/",
+      "titles": [
+        {
+          "en": "California: knowledge-test requirements reference",
+          "es": "California: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "CA"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.dmv.ca.gov/portal/file/california-quick-reference-drivers-handbook-dl-600-x-pdf/",
+      "titles": [
+        {
+          "en": "California: cited parking rule",
+          "es": "California: regla de estacionamiento citada"
+        }
+      ],
+      "states": [
+        "CA"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/alcohol-and-drugs/",
+      "titles": [
+        {
+          "en": "California: alcohol, drugs and containers",
+          "es": "California: alcohol, drogas y recipientes"
+        },
+        {
+          "en": "CA: Alcohol and drugs · Safer transport and persistent impairment",
+          "es": "CA: fuente oficial para este escenario"
+        },
+        {
+          "en": "CA: Alcohol and drugs · Medication, combinations and judgment",
+          "es": "CA: fuente oficial para este escenario"
+        }
+      ],
+      "states": [
+        "CA"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/financial-responsibility-insurance-requirements-and-collisions/",
+      "titles": [
+        {
+          "en": "California: insurance and collision reports",
+          "es": "California: seguro e informes de colisiones"
+        },
+        {
+          "en": "CA: Collisions · Stop, assistance and information",
+          "es": "CA: fuente oficial para este escenario"
+        }
+      ],
+      "states": [
+        "CA"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/getting-an-instruction-permit-and-drivers-license/",
+      "titles": [
+        {
+          "en": "California: permits and provisional licenses",
+          "es": "California: permisos y licencias provisionales"
+        }
+      ],
+      "states": [
+        "CA"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/introduction-to-driving/",
+      "titles": [
+        {
+          "en": "California: signals and headlights",
+          "es": "California: señales y luces delanteras"
+        },
+        {
+          "en": "CA: Vehicle readiness · Tires, controls, load and visibility",
+          "es": "CA: fuente oficial para este escenario"
+        }
+      ],
+      "states": [
+        "CA"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/laws-and-rules-of-the-road-cont1/",
+      "titles": [
+        {
+          "en": "California: sharing the road and school buses",
+          "es": "California: compartir la vía y autobuses escolares"
+        },
+        {
+          "en": "CA: Intersections · Stop-controlled priority",
+          "es": "CA: fuente oficial para este escenario"
+        },
+        {
+          "en": "CA: Intersections · Restricted sight and defensive yielding",
+          "es": "CA: fuente oficial para este escenario"
+        },
+        {
+          "en": "CA: School buses · Same-direction approaches and children",
+          "es": "CA: fuente oficial para este escenario"
+        },
+        {
+          "en": "CA: Sharing the road · Pedestrians and limited visibility",
+          "es": "CA: fuente oficial para este escenario"
+        },
+        {
+          "en": "CA: Sharing the road · Bicycles, doors and turns",
+          "es": "CA: fuente oficial para este escenario"
+        },
+        {
+          "en": "CA: Sharing the road · Motorcycles",
+          "es": "CA: fuente oficial para este escenario"
+        },
+        {
+          "en": "CA: Sharing the road · Large-vehicle operating space",
+          "es": "CA: fuente oficial para este escenario"
+        },
+        {
+          "en": "CA: Emergency vehicles · Approaching responders and intersections",
+          "es": "CA: fuente oficial para este escenario"
+        }
+      ],
+      "states": [
+        "CA"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/laws-and-rules-of-the-road/",
+      "titles": [
+        {
+          "en": "CA: Traffic controls · Signals and officer directions",
+          "es": "CA: fuente oficial para este escenario"
+        },
+        {
+          "en": "CA: Traffic controls · Lane lines and barriers",
+          "es": "CA: fuente oficial para este escenario"
+        },
+        {
+          "en": "CA: Traffic controls · Lane arrows and reversible lanes",
+          "es": "CA: fuente oficial para este escenario"
+        },
+        {
+          "en": "CA: Traffic signs · Regulatory instructions",
+          "es": "CA: fuente oficial para este escenario"
+        },
+        {
+          "en": "CA: Traffic signs · School, pedestrian, railroad and slippery warnings",
+          "es": "CA: fuente oficial para este escenario"
+        },
+        {
+          "en": "CA: Traffic signs · Merges and changes in road layout",
+          "es": "CA: fuente oficial para este escenario"
+        },
+        {
+          "en": "CA: Traffic signs · Advisory, route, service and destination information",
+          "es": "CA: fuente oficial para este escenario"
+        },
+        {
+          "en": "CA: Work zones · Temporary controls and vulnerable workers",
+          "es": "CA: fuente oficial para este escenario"
+        },
+        {
+          "en": "California: mountain-road right of way",
+          "es": "California: prioridad en vías de montaña"
+        }
+      ],
+      "states": [
+        "CA"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/navigating-the-roads-cont1/",
+      "titles": [
+        {
+          "en": "California: parking and colored curbs",
+          "es": "California: estacionamiento y bordillos de colores"
+        },
+        {
+          "en": "CA: Parking · Hills, vehicle security and re-entry",
+          "es": "CA: fuente oficial para este escenario"
+        },
+        {
+          "en": "CA: Parking · Accessible areas, sight lines and doors",
+          "es": "CA: fuente oficial para este escenario"
+        }
+      ],
+      "states": [
+        "CA"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/navigating-the-roads/",
+      "titles": [
+        {
+          "en": "California: turns and lane use",
+          "es": "California: giros y uso de carriles"
+        },
+        {
+          "en": "CA: Intersections · Left turns",
+          "es": "CA: fuente oficial para este escenario"
+        },
+        {
+          "en": "CA: Intersections · Right turns and visibility",
+          "es": "CA: fuente oficial para este escenario"
+        },
+        {
+          "en": "CA: Intersections · Modern roundabouts",
+          "es": "CA: fuente oficial para este escenario"
+        },
+        {
+          "en": "CA: Passing · Visibility, clearance, and being passed",
+          "es": "CA: fuente oficial para este escenario"
+        },
+        {
+          "en": "CA: Sharing the road · Passing large vehicles",
+          "es": "CA: fuente oficial para este escenario"
+        },
+        {
+          "en": "CA: Freeway driving · Joining, leaving and route recovery",
+          "es": "CA: fuente oficial para este escenario"
+        },
+        {
+          "en": "CA: Illustrated application · all-way-stop",
+          "es": "CA: fuente oficial para este escenario"
+        },
+        {
+          "en": "CA: Illustrated application · unprotected-left",
+          "es": "CA: fuente oficial para este escenario"
+        },
+        {
+          "en": "CA: Illustrated application · uncontrolled",
+          "es": "CA: fuente oficial para este escenario"
+        },
+        {
+          "en": "CA: Illustrated application · lane-change",
+          "es": "CA: fuente oficial para este escenario"
+        }
+      ],
+      "states": [
+        "CA"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/safe-driving-cont1/",
+      "titles": [
+        {
+          "en": "CA: Occupant protection · Belts, airbags and restraints",
+          "es": "CA: fuente oficial para este escenario"
+        }
+      ],
+      "states": [
+        "CA"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/safe-driving-cont2/",
+      "titles": [
+        {
+          "en": "California: speed rules",
+          "es": "California: reglas de velocidad"
+        }
+      ],
+      "states": [
+        "CA"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/safe-driving/",
+      "titles": [
+        {
+          "en": "California handbook: vehicle control and road hazards",
+          "es": "Manual de California: control y peligros de la vía"
+        },
+        {
+          "en": "CA: Safe driving · Scanning, blind spots and attention",
+          "es": "CA: fuente oficial para este escenario"
+        },
+        {
+          "en": "CA: Safe driving · Following space and tailgaters",
+          "es": "CA: fuente oficial para este escenario"
+        },
+        {
+          "en": "CA: Safe driving · Speed, visibility and stopping distance",
+          "es": "CA: fuente oficial para este escenario"
+        },
+        {
+          "en": "CA: Safe driving · Distraction, fatigue and emotional control",
+          "es": "CA: fuente oficial para este escenario"
+        },
+        {
+          "en": "CA: Special conditions · Rain and hydroplaning",
+          "es": "CA: fuente oficial para este escenario"
+        },
+        {
+          "en": "CA: Special conditions · Darkness, glare and fog",
+          "es": "CA: fuente oficial para este escenario"
+        },
+        {
+          "en": "CA: Special conditions · Ice, curves and steep grades",
+          "es": "CA: fuente oficial para este escenario"
+        },
+        {
+          "en": "CA: Emergencies · Road-edge departure, skids and wet brakes",
+          "es": "CA: fuente oficial para este escenario"
+        },
+        {
+          "en": "CA: Special conditions · Floods, wind and blocked roads",
+          "es": "CA: fuente oficial para este escenario"
+        },
+        {
+          "en": "CA: Railroad crossings · Gates, multiple tracks and escape",
+          "es": "CA: fuente oficial para este escenario"
+        },
+        {
+          "en": "CA: Defensive driving · Multiple simultaneous hazards",
+          "es": "CA: fuente oficial para este escenario"
+        }
+      ],
+      "states": [
+        "CA"
+      ],
+      "shared": true
+    },
+    {
+      "url": "https://www.dmv.ca.gov/portal/uploads/2020/04/dl603.pdf",
+      "titles": [
+        {
+          "en": "California training guide: vehicle emergencies",
+          "es": "Guía de California: emergencias del vehículo"
+        },
+        {
+          "en": "CA: Emergencies · Tire failure, throttle and brakes",
+          "es": "CA: fuente oficial para este escenario"
+        }
+      ],
+      "states": [
+        "CA"
+      ],
+      "shared": true
+    },
+    {
+      "url": "https://www.dmv.nh.gov/sites/g/files/ehbemt416/files/inline-documents/nhdm.pdf",
+      "titles": [
+        {
+          "en": "New Hampshire: official driving resources",
+          "es": "Recursos oficiales de conducción de Nuevo Hampshire"
+        },
+        {
+          "en": "New Hampshire: driver handbook / driving resources",
+          "es": "Nuevo Hampshire: manual / recursos de conducción"
+        },
+        {
+          "en": "New Hampshire: knowledge-test requirements reference",
+          "es": "Nuevo Hampshire: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "NH"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.dmv.virginia.gov/licenses-ids/exams/know-exam",
+      "titles": [
+        {
+          "en": "Virginia: knowledge-test requirements reference",
+          "es": "Virginia: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "VA"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.dmv.virginia.gov/licenses-ids/exams/manual",
+      "titles": [
+        {
+          "en": "Virginia: driver handbook / driving resources",
+          "es": "Virginia: manual / recursos de conducción"
+        }
+      ],
+      "states": [
+        "VA"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.dmv.virginia.gov/sites/default/files/forms/dmv39.pdf",
+      "titles": [
+        {
+          "en": "Virginia: official driving resources",
+          "es": "Recursos oficiales de conducción de Virginia"
+        },
+        {
+          "en": "Virginia: official driving source",
+          "es": "Virginia: fuente oficial de conducción"
+        },
+        {
+          "en": "Virginia: handbook publication",
+          "es": "Virginia: publicación del manual"
+        }
+      ],
+      "states": [
+        "VA"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.dmv.virginia.gov/webdoc/pdf/dmv39.pdf",
+      "titles": [
+        {
+          "en": "Virginia: cited parking rule",
+          "es": "Virginia: regla de estacionamiento citada"
+        }
+      ],
+      "states": [
+        "VA"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.dot.nd.gov/sites/www/files/documents/Drivers%20-%20documents/noncommercial-manual.pdf",
+      "titles": [
+        {
+          "en": "North Dakota: official driving resources",
+          "es": "Recursos oficiales de conducción de Dakota del Norte"
+        },
+        {
+          "en": "North Dakota: cited parking rule",
+          "es": "Dakota del Norte: regla de estacionamiento citada"
+        },
+        {
+          "en": "North Dakota: official driving source",
+          "es": "Dakota del Norte: fuente oficial de conducción"
+        },
+        {
+          "en": "North Dakota: driver handbook / driving resources",
+          "es": "Dakota del Norte: manual / recursos de conducción"
+        },
+        {
+          "en": "North Dakota: handbook publication",
+          "es": "Dakota del Norte: publicación del manual"
+        },
+        {
+          "en": "North Dakota: knowledge-test requirements reference",
+          "es": "Dakota del Norte: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "ND"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.dot.ny.gov/divisions/operating/oom/transportation-systems/repository/TSMI%2019-03%20-%20Wrong%20Way%20REV_011221.pdf",
+      "titles": [
+        {
+          "en": "NYSDOT: wrong-way warning signs",
+          "es": "NYSDOT: señales de sentido contrario"
+        }
+      ],
+      "states": [
+        "NY"
+      ],
+      "shared": true
+    },
+    {
+      "url": "https://www.dps.texas.gov/internetforms/forms/dl-7.pdf",
+      "titles": [
+        {
+          "en": "TX: Intersections · Stop-controlled priority",
+          "es": "TX: fuente oficial para este escenario"
+        },
+        {
+          "en": "TX: Intersections · Left turns",
+          "es": "TX: fuente oficial para este escenario"
+        },
+        {
+          "en": "TX: Intersections · Right turns and visibility",
+          "es": "TX: fuente oficial para este escenario"
+        },
+        {
+          "en": "TX: Intersections · Modern roundabouts",
+          "es": "TX: fuente oficial para este escenario"
+        },
+        {
+          "en": "TX: Intersections · Restricted sight and defensive yielding",
+          "es": "TX: fuente oficial para este escenario"
+        },
+        {
+          "en": "TX: Traffic controls · Signals and officer directions",
+          "es": "TX: fuente oficial para este escenario"
+        },
+        {
+          "en": "TX: Traffic controls · Lane lines and barriers",
+          "es": "TX: fuente oficial para este escenario"
+        },
+        {
+          "en": "TX: Traffic controls · Lane arrows and reversible lanes",
+          "es": "TX: fuente oficial para este escenario"
+        },
+        {
+          "en": "TX: Passing · Visibility, clearance, and being passed",
+          "es": "TX: fuente oficial para este escenario"
+        },
+        {
+          "en": "TX: Sharing the road · Passing large vehicles",
+          "es": "TX: fuente oficial para este escenario"
+        },
+        {
+          "en": "TX: School buses · Same-direction approaches and children",
+          "es": "TX: fuente oficial para este escenario"
+        },
+        {
+          "en": "TX: Freeway driving · Joining, leaving and route recovery",
+          "es": "TX: fuente oficial para este escenario"
+        },
+        {
+          "en": "TX: Parking · Hills, vehicle security and re-entry",
+          "es": "TX: fuente oficial para este escenario"
+        },
+        {
+          "en": "TX: Parking · Accessible areas, sight lines and doors",
+          "es": "TX: fuente oficial para este escenario"
+        },
+        {
+          "en": "TX: Safe driving · Scanning, blind spots and attention",
+          "es": "TX: fuente oficial para este escenario"
+        },
+        {
+          "en": "TX: Safe driving · Following space and tailgaters",
+          "es": "TX: fuente oficial para este escenario"
+        },
+        {
+          "en": "TX: Safe driving · Speed, visibility and stopping distance",
+          "es": "TX: fuente oficial para este escenario"
+        },
+        {
+          "en": "TX: Safe driving · Distraction, fatigue and emotional control",
+          "es": "TX: fuente oficial para este escenario"
+        },
+        {
+          "en": "TX: Occupant protection · Belts, airbags and restraints",
+          "es": "TX: fuente oficial para este escenario"
+        },
+        {
+          "en": "TX: Alcohol and drugs · Safer transport and persistent impairment",
+          "es": "TX: fuente oficial para este escenario"
+        },
+        {
+          "en": "TX: Alcohol and drugs · Medication, combinations and judgment",
+          "es": "TX: fuente oficial para este escenario"
+        },
+        {
+          "en": "TX: Special conditions · Rain and hydroplaning",
+          "es": "TX: fuente oficial para este escenario"
+        },
+        {
+          "en": "TX: Special conditions · Darkness, glare and fog",
+          "es": "TX: fuente oficial para este escenario"
+        },
+        {
+          "en": "TX: Special conditions · Ice, curves and steep grades",
+          "es": "TX: fuente oficial para este escenario"
+        },
+        {
+          "en": "TX: Emergencies · Tire failure, throttle and brakes",
+          "es": "TX: fuente oficial para este escenario"
+        },
+        {
+          "en": "TX: Emergencies · Road-edge departure, skids and wet brakes",
+          "es": "TX: fuente oficial para este escenario"
+        },
+        {
+          "en": "TX: Special conditions · Floods, wind and blocked roads",
+          "es": "TX: fuente oficial para este escenario"
+        },
+        {
+          "en": "TX: Sharing the road · Pedestrians and limited visibility",
+          "es": "TX: fuente oficial para este escenario"
+        },
+        {
+          "en": "TX: Sharing the road · Bicycles, doors and turns",
+          "es": "TX: fuente oficial para este escenario"
+        },
+        {
+          "en": "TX: Sharing the road · Motorcycles",
+          "es": "TX: fuente oficial para este escenario"
+        },
+        {
+          "en": "TX: Sharing the road · Large-vehicle operating space",
+          "es": "TX: fuente oficial para este escenario"
+        },
+        {
+          "en": "TX: Emergency vehicles · Approaching responders and intersections",
+          "es": "TX: fuente oficial para este escenario"
+        },
+        {
+          "en": "TX: Traffic signs · Regulatory instructions",
+          "es": "TX: fuente oficial para este escenario"
+        },
+        {
+          "en": "TX: Traffic signs · School, pedestrian, railroad and slippery warnings",
+          "es": "TX: fuente oficial para este escenario"
+        },
+        {
+          "en": "TX: Traffic signs · Merges and changes in road layout",
+          "es": "TX: fuente oficial para este escenario"
+        },
+        {
+          "en": "TX: Traffic signs · Advisory, route, service and destination information",
+          "es": "TX: fuente oficial para este escenario"
+        },
+        {
+          "en": "TX: Railroad crossings · Gates, multiple tracks and escape",
+          "es": "TX: fuente oficial para este escenario"
+        },
+        {
+          "en": "TX: Work zones · Temporary controls and vulnerable workers",
+          "es": "TX: fuente oficial para este escenario"
+        },
+        {
+          "en": "TX: Vehicle readiness · Tires, controls, load and visibility",
+          "es": "TX: fuente oficial para este escenario"
+        },
+        {
+          "en": "TX: Collisions · Stop, assistance and information",
+          "es": "TX: fuente oficial para este escenario"
+        },
+        {
+          "en": "TX: Defensive driving · Multiple simultaneous hazards",
+          "es": "TX: fuente oficial para este escenario"
+        },
+        {
+          "en": "TX: Illustrated application · all-way-stop",
+          "es": "TX: fuente oficial para este escenario"
+        },
+        {
+          "en": "TX: Illustrated application · unprotected-left",
+          "es": "TX: fuente oficial para este escenario"
+        },
+        {
+          "en": "TX: Illustrated application · uncontrolled",
+          "es": "TX: fuente oficial para este escenario"
+        },
+        {
+          "en": "TX: Illustrated application · lane-change",
+          "es": "TX: fuente oficial para este escenario"
+        }
+      ],
+      "states": [
+        "TX"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.dps.texas.gov/InternetForms/Forms/DL-7.pdf",
+      "titles": [
+        {
+          "en": "Texas: official driving resources",
+          "es": "Recursos oficiales de conducción de Texas"
+        },
+        {
+          "en": "Texas: cited parking rule",
+          "es": "Texas: regla de estacionamiento citada"
+        },
+        {
+          "en": "Texas: driver handbook / driving resources",
+          "es": "Texas: manual / recursos de conducción"
+        },
+        {
+          "en": "Texas: knowledge-test requirements reference",
+          "es": "Texas: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "TX"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.driverservicebureau.dps.ms.gov/sites/default/files/2025-02/1.15.2025%20Revised%20MDPS%20Driver%27s%20Manual.pdf",
+      "titles": [
+        {
+          "en": "Mississippi: official driving resources",
+          "es": "Recursos oficiales de conducción de Misisipi"
+        },
+        {
+          "en": "Mississippi: cited parking rule",
+          "es": "Misisipi: regla de estacionamiento citada"
+        },
+        {
+          "en": "Mississippi: official driving source",
+          "es": "Misisipi: fuente oficial de conducción"
+        },
+        {
+          "en": "Mississippi: driver handbook / driving resources",
+          "es": "Misisipi: manual / recursos de conducción"
+        },
+        {
+          "en": "Mississippi: handbook publication",
+          "es": "Misisipi: publicación del manual"
+        },
+        {
+          "en": "Mississippi: knowledge-test requirements reference",
+          "es": "Misisipi: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "MS"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.flhsmv.gov/pdf/handbooks/englishdriverhandbook.pdf",
+      "titles": [
+        {
+          "en": "Florida: official driving resources",
+          "es": "Recursos oficiales de conducción de Florida"
+        },
+        {
+          "en": "FL: Intersections · Stop-controlled priority",
+          "es": "FL: fuente oficial para este escenario"
+        },
+        {
+          "en": "FL: Intersections · Left turns",
+          "es": "FL: fuente oficial para este escenario"
+        },
+        {
+          "en": "FL: Intersections · Right turns and visibility",
+          "es": "FL: fuente oficial para este escenario"
+        },
+        {
+          "en": "FL: Intersections · Modern roundabouts",
+          "es": "FL: fuente oficial para este escenario"
+        },
+        {
+          "en": "FL: Intersections · Restricted sight and defensive yielding",
+          "es": "FL: fuente oficial para este escenario"
+        },
+        {
+          "en": "FL: Traffic controls · Signals and officer directions",
+          "es": "FL: fuente oficial para este escenario"
+        },
+        {
+          "en": "FL: Traffic controls · Lane lines and barriers",
+          "es": "FL: fuente oficial para este escenario"
+        },
+        {
+          "en": "FL: Traffic controls · Lane arrows and reversible lanes",
+          "es": "FL: fuente oficial para este escenario"
+        },
+        {
+          "en": "FL: Passing · Visibility, clearance, and being passed",
+          "es": "FL: fuente oficial para este escenario"
+        },
+        {
+          "en": "FL: Sharing the road · Passing large vehicles",
+          "es": "FL: fuente oficial para este escenario"
+        },
+        {
+          "en": "FL: School buses · Same-direction approaches and children",
+          "es": "FL: fuente oficial para este escenario"
+        },
+        {
+          "en": "FL: Freeway driving · Joining, leaving and route recovery",
+          "es": "FL: fuente oficial para este escenario"
+        },
+        {
+          "en": "FL: Parking · Hills, vehicle security and re-entry",
+          "es": "FL: fuente oficial para este escenario"
+        },
+        {
+          "en": "FL: Parking · Accessible areas, sight lines and doors",
+          "es": "FL: fuente oficial para este escenario"
+        },
+        {
+          "en": "FL: Safe driving · Scanning, blind spots and attention",
+          "es": "FL: fuente oficial para este escenario"
+        },
+        {
+          "en": "FL: Safe driving · Following space and tailgaters",
+          "es": "FL: fuente oficial para este escenario"
+        },
+        {
+          "en": "FL: Safe driving · Speed, visibility and stopping distance",
+          "es": "FL: fuente oficial para este escenario"
+        },
+        {
+          "en": "FL: Safe driving · Distraction, fatigue and emotional control",
+          "es": "FL: fuente oficial para este escenario"
+        },
+        {
+          "en": "FL: Occupant protection · Belts, airbags and restraints",
+          "es": "FL: fuente oficial para este escenario"
+        },
+        {
+          "en": "FL: Alcohol and drugs · Safer transport and persistent impairment",
+          "es": "FL: fuente oficial para este escenario"
+        },
+        {
+          "en": "FL: Alcohol and drugs · Medication, combinations and judgment",
+          "es": "FL: fuente oficial para este escenario"
+        },
+        {
+          "en": "FL: Special conditions · Rain and hydroplaning",
+          "es": "FL: fuente oficial para este escenario"
+        },
+        {
+          "en": "FL: Special conditions · Darkness, glare and fog",
+          "es": "FL: fuente oficial para este escenario"
+        },
+        {
+          "en": "FL: Special conditions · Ice, curves and steep grades",
+          "es": "FL: fuente oficial para este escenario"
+        },
+        {
+          "en": "FL: Emergencies · Tire failure, throttle and brakes",
+          "es": "FL: fuente oficial para este escenario"
+        },
+        {
+          "en": "FL: Emergencies · Road-edge departure, skids and wet brakes",
+          "es": "FL: fuente oficial para este escenario"
+        },
+        {
+          "en": "FL: Special conditions · Floods, wind and blocked roads",
+          "es": "FL: fuente oficial para este escenario"
+        },
+        {
+          "en": "FL: Sharing the road · Pedestrians and limited visibility",
+          "es": "FL: fuente oficial para este escenario"
+        },
+        {
+          "en": "FL: Sharing the road · Bicycles, doors and turns",
+          "es": "FL: fuente oficial para este escenario"
+        },
+        {
+          "en": "FL: Sharing the road · Motorcycles",
+          "es": "FL: fuente oficial para este escenario"
+        },
+        {
+          "en": "FL: Sharing the road · Large-vehicle operating space",
+          "es": "FL: fuente oficial para este escenario"
+        },
+        {
+          "en": "FL: Emergency vehicles · Approaching responders and intersections",
+          "es": "FL: fuente oficial para este escenario"
+        },
+        {
+          "en": "FL: Traffic signs · Regulatory instructions",
+          "es": "FL: fuente oficial para este escenario"
+        },
+        {
+          "en": "FL: Traffic signs · School, pedestrian, railroad and slippery warnings",
+          "es": "FL: fuente oficial para este escenario"
+        },
+        {
+          "en": "FL: Traffic signs · Merges and changes in road layout",
+          "es": "FL: fuente oficial para este escenario"
+        },
+        {
+          "en": "FL: Traffic signs · Advisory, route, service and destination information",
+          "es": "FL: fuente oficial para este escenario"
+        },
+        {
+          "en": "FL: Illustrated application · all-way-stop",
+          "es": "FL: fuente oficial para este escenario"
+        },
+        {
+          "en": "FL: Illustrated application · unprotected-left",
+          "es": "FL: fuente oficial para este escenario"
+        },
+        {
+          "en": "Florida: driver handbook / driving resources",
+          "es": "Florida: manual / recursos de conducción"
+        },
+        {
+          "en": "Florida: knowledge-test requirements reference",
+          "es": "Florida: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "FL"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.flsenate.gov/Laws/Statutes/2026/Chapter316/All",
+      "titles": [
+        {
+          "en": "Florida: official driving source",
+          "es": "Florida: fuente oficial de conducción"
+        }
+      ],
+      "states": [
+        "FL"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.fmcsa.dot.gov/ourroads/tips-driving-safely-around-large-trucks-or-buses",
+      "titles": [
+        {
+          "en": "FMCSA: sharing the road with large vehicles",
+          "es": "FMCSA: compartir la vía con vehículos grandes"
+        }
+      ],
+      "states": [],
+      "shared": true
+    },
+    {
+      "url": "https://www.ilsos.gov/content/dam/publications/pdf_publications/dsd_a112.pdf",
+      "titles": [
+        {
+          "en": "Illinois: official driving resources",
+          "es": "Recursos oficiales de conducción de Illinois"
+        },
+        {
+          "en": "Illinois: cited parking rule",
+          "es": "Illinois: regla de estacionamiento citada"
+        },
+        {
+          "en": "Illinois: official driving source",
+          "es": "Illinois: fuente oficial de conducción"
+        },
+        {
+          "en": "Illinois: driver handbook / driving resources",
+          "es": "Illinois: manual / recursos de conducción"
+        },
+        {
+          "en": "Illinois: handbook publication",
+          "es": "Illinois: publicación del manual"
+        },
+        {
+          "en": "Illinois: knowledge-test requirements reference",
+          "es": "Illinois: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "IL"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.in.gov/bmv/licenses-permits-ids/files/Drivers_Manual_Chapter_7.pdf",
+      "titles": [
+        {
+          "en": "Indiana: official driving resources",
+          "es": "Recursos oficiales de conducción de Indiana"
+        },
+        {
+          "en": "Indiana: cited parking rule",
+          "es": "Indiana: regla de estacionamiento citada"
+        },
+        {
+          "en": "Indiana: official driving source",
+          "es": "Indiana: fuente oficial de conducción"
+        },
+        {
+          "en": "Indiana: handbook publication",
+          "es": "Indiana: publicación del manual"
+        }
+      ],
+      "states": [
+        "IN"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.in.gov/bmv/licenses-permits-ids/learners-permits-and-drivers-licenses-overview/learners-permit/drivers-manual/",
+      "titles": [
+        {
+          "en": "Indiana: driver handbook / driving resources",
+          "es": "Indiana: manual / recursos de conducción"
+        }
+      ],
+      "states": [
+        "IN"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.in.gov/bmv/licenses-permits-ids/learners-permits-and-drivers-licenses-overview/learners-permit/knowledge-exam/",
+      "titles": [
+        {
+          "en": "Indiana: knowledge-test requirements reference",
+          "es": "Indiana: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "IN"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.ksrevenue.gov/pdf/dlhb.pdf",
+      "titles": [
+        {
+          "en": "Kansas: official driving resources",
+          "es": "Recursos oficiales de conducción de Kansas"
+        },
+        {
+          "en": "Kansas: cited parking rule",
+          "es": "Kansas: regla de estacionamiento citada"
+        },
+        {
+          "en": "Kansas: official driving source",
+          "es": "Kansas: fuente oficial de conducción"
+        },
+        {
+          "en": "Kansas: driver handbook / driving resources",
+          "es": "Kansas: manual / recursos de conducción"
+        },
+        {
+          "en": "Kansas: handbook publication",
+          "es": "Kansas: publicación del manual"
+        }
+      ],
+      "states": [
+        "KS"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.legis.iowa.gov/docs/code/321.358.pdf",
+      "titles": [
+        {
+          "en": "Iowa: cited parking rule",
+          "es": "Iowa: regla de estacionamiento citada"
+        }
+      ],
+      "states": [
+        "IA"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.maine.gov/sos/bmv/driver-licenses-and-ids/car-license/drivers-license-exam",
+      "titles": [
+        {
+          "en": "Maine: knowledge-test requirements reference",
+          "es": "Maine: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "ME"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.mass.gov/doc/english-drivers-manual/download",
+      "titles": [
+        {
+          "en": "Massachusetts: official driving resources",
+          "es": "Recursos oficiales de conducción de Massachusetts"
+        },
+        {
+          "en": "Massachusetts: official driving source",
+          "es": "Massachusetts: fuente oficial de conducción"
+        },
+        {
+          "en": "Massachusetts: driver handbook / driving resources",
+          "es": "Massachusetts: manual / recursos de conducción"
+        },
+        {
+          "en": "Massachusetts: handbook publication",
+          "es": "Massachusetts: publicación del manual"
+        }
+      ],
+      "states": [
+        "MA"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.mass.gov/doc/parkways-traffic-and-pedestrian-rules/download",
+      "titles": [
+        {
+          "en": "Massachusetts: cited parking rule",
+          "es": "Massachusetts: regla de estacionamiento citada"
+        }
+      ],
+      "states": [
+        "MA"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.mass.gov/how-to/apply-for-a-passenger-class-d-learners-permit",
+      "titles": [
+        {
+          "en": "Massachusetts: knowledge-test requirements reference",
+          "es": "Massachusetts: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "MA"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.michigan.gov/en/msp/services/safetytips/traffic-laws-faqs",
+      "titles": [
+        {
+          "en": "Michigan: official driving source",
+          "es": "Míchigan: fuente oficial de conducción"
+        }
+      ],
+      "states": [
+        "MI"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.michigan.gov/en/msp/Services/safetytips/traffic-laws-faqs",
+      "titles": [
+        {
+          "en": "Michigan: cited parking rule",
+          "es": "Míchigan: regla de estacionamiento citada"
+        }
+      ],
+      "states": [
+        "MI"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.michigan.gov/sos/-/media/Project/Websites/sos/01preston/Driving-Skills-Test-Study-Guide.pdf?hash=5649D12907BF67AC211D8FD3BDB90622&rev=52e20a67aa7c44e29318f6b138120f09",
+      "titles": [
+        {
+          "en": "Michigan: official driving source",
+          "es": "Míchigan: fuente oficial de conducción"
+        }
+      ],
+      "states": [
+        "MI"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.michigan.gov/sos/license-id/new-drivers-under-18",
+      "titles": [
+        {
+          "en": "Michigan: official driving source",
+          "es": "Míchigan: fuente oficial de conducción"
+        }
+      ],
+      "states": [
+        "MI"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.michigan.gov/sos/resources/forms/what-every-driver-must-know",
+      "titles": [
+        {
+          "en": "Michigan: official driving resources",
+          "es": "Recursos oficiales de conducción de Míchigan"
+        },
+        {
+          "en": "Michigan: driver handbook / driving resources",
+          "es": "Míchigan: manual / recursos de conducción"
+        },
+        {
+          "en": "Michigan: knowledge-test requirements reference",
+          "es": "Míchigan: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "MI"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.mvd.newmexico.gov/resources/mvd-procedures-manuals/download-manuals/",
+      "titles": [
+        {
+          "en": "New Mexico: driver handbook / driving resources",
+          "es": "Nuevo México: manual / recursos de conducción"
+        }
+      ],
+      "states": [
+        "NM"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.mvd.newmexico.gov/wp-content/uploads/2020/12/English-Drivers-Manualver11.19.19.pdf",
+      "titles": [
+        {
+          "en": "New Mexico: official driving resources",
+          "es": "Recursos oficiales de conducción de Nuevo México"
+        },
+        {
+          "en": "New Mexico: cited parking rule",
+          "es": "Nuevo México: regla de estacionamiento citada"
+        },
+        {
+          "en": "New Mexico: official driving source",
+          "es": "Nuevo México: fuente oficial de conducción"
+        },
+        {
+          "en": "New Mexico: handbook publication",
+          "es": "Nuevo México: publicación del manual"
+        },
+        {
+          "en": "New Mexico: knowledge-test requirements reference",
+          "es": "Nuevo México: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "NM"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Documents/nc-driver-handbook.pdf",
+      "titles": [
+        {
+          "en": "North Carolina: official driving resources",
+          "es": "Recursos oficiales de conducción de Carolina del Norte"
+        },
+        {
+          "en": "North Carolina: official driving source",
+          "es": "Carolina del Norte: fuente oficial de conducción"
+        },
+        {
+          "en": "North Carolina: handbook publication",
+          "es": "Carolina del Norte: publicación del manual"
+        },
+        {
+          "en": "North Carolina: knowledge-test requirements reference",
+          "es": "Carolina del Norte: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "NC"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.ncdot.gov/dmv/license-id/driver-licenses/new-drivers/Pages/handbooks.aspx",
+      "titles": [
+        {
+          "en": "North Carolina: driver handbook / driving resources",
+          "es": "Carolina del Norte: manual / recursos de conducción"
+        }
+      ],
+      "states": [
+        "NC"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/PDF/ByChapter/Chapter_20.pdf",
+      "titles": [
+        {
+          "en": "North Carolina: cited parking rule",
+          "es": "Carolina del Norte: regla de estacionamiento citada"
+        }
+      ],
+      "states": [
+        "NC"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.nhtsa.gov/campaign/railroad-crossing",
+      "titles": [
+        {
+          "en": "NHTSA: railroad crossing safety",
+          "es": "NHTSA: seguridad en cruces ferroviarios"
+        }
+      ],
+      "states": [],
+      "shared": true
+    },
+    {
+      "url": "https://www.nhtsa.gov/risky-driving/distracted-driving",
+      "titles": [
+        {
+          "en": "NHTSA: distracted driving",
+          "es": "NHTSA: distracciones al conducir"
+        }
+      ],
+      "states": [],
+      "shared": true
+    },
+    {
+      "url": "https://www.nhtsa.gov/risky-driving/drowsy-driving",
+      "titles": [
+        {
+          "en": "NHTSA: drowsy driving",
+          "es": "NHTSA: conducción con sueño"
+        }
+      ],
+      "states": [],
+      "shared": true
+    },
+    {
+      "url": "https://www.nhtsa.gov/risky-driving/drug-impaired-driving",
+      "titles": [
+        {
+          "en": "NHTSA: drug-impaired driving",
+          "es": "NHTSA: conducción bajo efectos de drogas"
+        }
+      ],
+      "states": [],
+      "shared": true
+    },
+    {
+      "url": "https://www.nhtsa.gov/risky-driving/drunk-driving",
+      "titles": [
+        {
+          "en": "NHTSA: alcohol impairment and state BAC limits",
+          "es": "NHTSA: efectos del alcohol y límites estatales"
+        }
+      ],
+      "states": [],
+      "shared": true
+    },
+    {
+      "url": "https://www.nhtsa.gov/road-safety/bicycle-safety",
+      "titles": [
+        {
+          "en": "NHTSA: bicycle safety",
+          "es": "NHTSA: seguridad ciclista"
+        }
+      ],
+      "states": [],
+      "shared": true
+    },
+    {
+      "url": "https://www.nhtsa.gov/road-safety/motorcycles",
+      "titles": [
+        {
+          "en": "NHTSA: motorcycle safety",
+          "es": "NHTSA: seguridad de motocicletas"
+        }
+      ],
+      "states": [],
+      "shared": true
+    },
+    {
+      "url": "https://www.nhtsa.gov/road-safety/pedestrian-safety",
+      "titles": [
+        {
+          "en": "NHTSA: pedestrian safety",
+          "es": "NHTSA: seguridad peatonal"
+        }
+      ],
+      "states": [],
+      "shared": true
+    },
+    {
+      "url": "https://www.nhtsa.gov/road-safety/school-bus-safety",
+      "titles": [
+        {
+          "en": "NHTSA: school bus safety",
+          "es": "NHTSA: seguridad de autobuses escolares"
+        }
+      ],
+      "states": [],
+      "shared": true
+    },
+    {
+      "url": "https://www.nhtsa.gov/vehicle-safety/driver-assistance-technologies",
+      "titles": [
+        {
+          "en": "NHTSA: driver assistance technologies",
+          "es": "NHTSA: tecnologías de asistencia al conductor"
+        }
+      ],
+      "states": [],
+      "shared": true
+    },
+    {
+      "url": "https://www.nhtsa.gov/vehicle-safety/seat-belts",
+      "titles": [
+        {
+          "en": "NHTSA: seat belts",
+          "es": "NHTSA: cinturones de seguridad"
+        }
+      ],
+      "states": [],
+      "shared": true
+    },
+    {
+      "url": "https://www.nhtsa.gov/vehicle-safety/tires",
+      "titles": [
+        {
+          "en": "NHTSA: tire maintenance and tire failure",
+          "es": "NHTSA: mantenimiento y fallas de neumáticos"
+        }
+      ],
+      "states": [],
+      "shared": true
+    },
+    {
+      "url": "https://www.nhtsa.gov/winter-driving-tips",
+      "titles": [
+        {
+          "en": "NHTSA: winter driving preparation",
+          "es": "NHTSA: preparación para conducir en invierno"
+        }
+      ],
+      "states": [],
+      "shared": true
+    },
+    {
+      "url": "https://www.nj.gov/humanservices/dds/documents/BROCHURES/2026/Guide-to-Accessible-Parking.pdf",
+      "titles": [
+        {
+          "en": "New Jersey: cited parking rule",
+          "es": "Nueva Jersey: regla de estacionamiento citada"
+        }
+      ],
+      "states": [
+        "NJ"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.nj.gov/mvc/pdf/license/drivermanual.pdf",
+      "titles": [
+        {
+          "en": "New Jersey: official driving resources",
+          "es": "Recursos oficiales de conducción de Nueva Jersey"
+        },
+        {
+          "en": "New Jersey: official driving source",
+          "es": "Nueva Jersey: fuente oficial de conducción"
+        },
+        {
+          "en": "New Jersey: driver handbook / driving resources",
+          "es": "Nueva Jersey: manual / recursos de conducción"
+        },
+        {
+          "en": "New Jersey: handbook publication",
+          "es": "Nueva Jersey: publicación del manual"
+        }
+      ],
+      "states": [
+        "NJ"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.nysenate.gov/legislation/laws/VAT/1202",
+      "titles": [
+        {
+          "en": "New York parking law · VTL 1202",
+          "es": "Ley de estacionamiento de Nueva York · VTL 1202"
+        }
+      ],
+      "states": [
+        "NY"
+      ],
+      "shared": true
+    },
+    {
+      "url": "https://www.oaklandca.gov/Public-Safety-Streets/Parking-Vehicles/Daylighting",
+      "titles": [
+        {
+          "en": "Oakland: California crosswalk daylighting rule",
+          "es": "Oakland: regla de visibilidad en pasos peatonales de California"
+        }
+      ],
+      "states": [
+        "CA"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.oregon.gov/odot/DMV/Pages/Form/Manuals.aspx",
+      "titles": [
+        {
+          "en": "Oregon: driver handbook / driving resources",
+          "es": "Oregón: manual / recursos de conducción"
+        }
+      ],
+      "states": [
+        "OR"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.oregon.gov/odot/DMV/Pages/Online_Manual/Study-Section_6.aspx",
+      "titles": [
+        {
+          "en": "Oregon: cited parking rule",
+          "es": "Oregón: regla de estacionamiento citada"
+        }
+      ],
+      "states": [
+        "OR"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.oregon.gov/odot/Forms/DMV/37.pdf",
+      "titles": [
+        {
+          "en": "Oregon: official driving resources",
+          "es": "Recursos oficiales de conducción de Oregón"
+        },
+        {
+          "en": "Oregon: official driving source",
+          "es": "Oregón: fuente oficial de conducción"
+        },
+        {
+          "en": "Oregon: handbook publication",
+          "es": "Oregón: publicación del manual"
+        },
+        {
+          "en": "Oregon: knowledge-test requirements reference",
+          "es": "Oregón: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "OR"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.pa.gov/agencies/dmv/driver-services/pennsylvania-drivers-manual/online-drivers-manual/testing",
+      "titles": [
+        {
+          "en": "Pennsylvania: knowledge-test requirements reference",
+          "es": "Pensilvania: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "PA"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.pa.gov/content/dam/copapwp-pagov/en/penndot/documents/public/dvspubsforms/bdl/bdl-manuals/pa-drivers-manual-non-commercial/english/pub%2095.pdf",
+      "titles": [
+        {
+          "en": "Pennsylvania: official driving resources",
+          "es": "Recursos oficiales de conducción de Pensilvania"
+        },
+        {
+          "en": "Pennsylvania: cited parking rule",
+          "es": "Pensilvania: regla de estacionamiento citada"
+        },
+        {
+          "en": "Pennsylvania: official driving source",
+          "es": "Pensilvania: fuente oficial de conducción"
+        },
+        {
+          "en": "Pennsylvania: driver handbook / driving resources",
+          "es": "Pensilvania: manual / recursos de conducción"
+        },
+        {
+          "en": "Pennsylvania: handbook publication",
+          "es": "Pensilvania: publicación del manual"
+        }
+      ],
+      "states": [
+        "PA"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.scstatehouse.gov/code/t56c005.php",
+      "titles": [
+        {
+          "en": "South Carolina: cited parking rule",
+          "es": "Carolina del Sur: regla de estacionamiento citada"
+        }
+      ],
+      "states": [
+        "SC"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.sd.gov/sys_attachment.do?sys_id=709bcdfa47406e10237fbd51026d43a9",
+      "titles": [
+        {
+          "en": "South Dakota: official driving resources",
+          "es": "Recursos oficiales de conducción de Dakota del Sur"
+        },
+        {
+          "en": "South Dakota: cited parking rule",
+          "es": "Dakota del Sur: regla de estacionamiento citada"
+        },
+        {
+          "en": "South Dakota: official driving source",
+          "es": "Dakota del Sur: fuente oficial de conducción"
+        },
+        {
+          "en": "South Dakota: driver handbook / driving resources",
+          "es": "Dakota del Sur: manual / recursos de conducción"
+        },
+        {
+          "en": "South Dakota: handbook publication",
+          "es": "Dakota del Sur: publicación del manual"
+        },
+        {
+          "en": "South Dakota: knowledge-test requirements reference",
+          "es": "Dakota del Sur: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "SD"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.tn.gov/content/dam/tn/safety/documents/DL_Manual.pdf",
+      "titles": [
+        {
+          "en": "Tennessee: official driving resources",
+          "es": "Recursos oficiales de conducción de Tennessee"
+        },
+        {
+          "en": "Tennessee: official driving source",
+          "es": "Tennessee: fuente oficial de conducción"
+        },
+        {
+          "en": "Tennessee: driver handbook / driving resources",
+          "es": "Tennessee: manual / recursos de conducción"
+        },
+        {
+          "en": "Tennessee: handbook publication",
+          "es": "Tennessee: publicación del manual"
+        },
+        {
+          "en": "Tennessee: knowledge-test requirements reference",
+          "es": "Tennessee: referencia de requisitos del examen teórico"
+        }
+      ],
+      "states": [
+        "TN"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://www.weather.gov/safety/flood",
+      "titles": [
+        {
+          "en": "National Weather Service: flood safety",
+          "es": "Servicio Meteorológico Nacional: seguridad en inundaciones"
+        }
+      ],
+      "states": [],
+      "shared": true
+    },
+    {
+      "url": "https://www1.maine.gov/sos/bmv/driver-licenses-and-ids/car-license/motorist-handbook",
+      "titles": [
+        {
+          "en": "Maine: official driving resources",
+          "es": "Recursos oficiales de conducción de Maine"
+        },
+        {
+          "en": "Maine: cited parking rule",
+          "es": "Maine: regla de estacionamiento citada"
+        },
+        {
+          "en": "Maine: official driving source",
+          "es": "Maine: fuente oficial de conducción"
+        },
+        {
+          "en": "Maine: driver handbook / driving resources",
+          "es": "Maine: manual / recursos de conducción"
+        },
+        {
+          "en": "Maine: handbook publication",
+          "es": "Maine: publicación del manual"
+        }
+      ],
+      "states": [
+        "ME"
+      ],
+      "shared": false
+    },
+    {
+      "url": "https://wyoleg.gov/statutes/compress/title31.pdf",
+      "titles": [
+        {
+          "en": "Wyoming: cited parking rule",
+          "es": "Wyoming: regla de estacionamiento citada"
+        }
+      ],
+      "states": [
+        "WY"
+      ],
+      "shared": false
+    }
+  ]
+}
