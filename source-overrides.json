@@ -1,0 +1,18 @@
+{
+  "https://drive.ky.gov/Drivers/Documents/Parent%20Guide%20-Teaching-Your%20-Teen%20.pdf": {
+    "url": "https://wp.kentuckystatepolice.ky.gov/wp-content/uploads/2026/07/Kentucky-Driver-Manual_Updated_7-23-26.pdf",
+    "reason": "Previous parent-guide address returns 404; link the current official driver handbook as an alternative reference, not as the same document."
+  },
+  "https://www.dmv.ca.gov/portal/file/california-quick-reference-drivers-handbook-dl-600-x-pdf/": {
+    "url": "https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/navigating-the-roads-cont1/",
+    "reason": "Previous quick-reference address returns 404; link the current California handbook parking guidance as an alternative reference."
+  },
+  "https://transportation.wv.gov/DMV/DMVFormSearch/Drivers_Licensing_Handbook_web.pdf": {
+    "url": "https://webapps.transportation.wv.gov/TWS/DMV/Drivers_Licensing_Handbook.pdf",
+    "reason": "Previous handbook address returns 404; the same publisher provides the driver handbook at this current URL."
+  },
+  "https://comptroller.aem.tn.extglb.tn.gov/veteran/veteran-benefits/tn-state-benefits/motor-services/parking-privileges.html": {
+    "url": "https://www.tn.gov/veteran/veteran-benefits/tn-state-benefits/motor-services/parking-privileges.html",
+    "reason": "Replace an infrastructure hostname with a certificate mismatch with the public Tennessee government URL for the same parking-privileges page."
+  }
+}
