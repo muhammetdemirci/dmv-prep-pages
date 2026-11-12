@@ -20,9 +20,14 @@ copy = {
         'jump': 'Find your state', 'shared': 'Shared driving and federal safety references',
         'sharedNote': 'These sources support general driving fundamentals across state banks. New York chapters and California guidance remain identified as such.',
         'external': 'Links open the original publisher’s page or document. Arkansas DPS and Louisiana OMV publish some documents through media.ark.org and PowerDMS; both the government entry page and document are listed.',
+        'access': 'If a publisher’s website is unavailable from your location, use the USAGov state profile above its citations to find the state motor vehicle agency and government contacts.',
+        'state_profile': 'Find state agencies on USAGov',
+        'agency_directory': 'State motor vehicle agencies on USAGov',
+        'nhtsa_directory': 'NHTSA contact and website on USAGov',
+        'fmcsa_directory': 'FMCSA contact and website on USAGov',
         'json': 'Download the complete source inventory (JSON)', 'back': 'Back to top',
-        'moved': 'Some older publication addresses are unavailable. Where indicated, we link a current official reference instead; this is not a claim that it is the identical publication. Original citations are preserved in the downloadable inventory.',
-        'alternative': 'Current official reference for this topic (the original address is unavailable)',
+        'moved': 'Where a cited address has moved or can be difficult to access, we provide a related government reference. The downloadable inventory records the exact citations used by this app version.',
+        'alternative': 'Related government reference',
     },
     'es': {
         'title': 'Fuentes oficiales de información', 'support': 'Soporte', 'privacy': 'Privacidad',
@@ -33,9 +38,14 @@ copy = {
         'jump': 'Encuentra tu estado', 'shared': 'Referencias compartidas de conducción y seguridad federal',
         'sharedNote': 'Estas fuentes respaldan los fundamentos generales de los bancos estatales. Los capítulos de Nueva York y la orientación de California conservan su identificación.',
         'external': 'Los enlaces abren la página o el documento original. Arkansas DPS y Louisiana OMV publican algunos documentos mediante media.ark.org y PowerDMS; se incluyen la página gubernamental y el documento.',
+        'access': 'Si el sitio del organismo no está disponible desde tu ubicación, usa el perfil de USAGov que aparece antes de las citas para encontrar la agencia estatal de vehículos motorizados y los contactos gubernamentales.',
+        'state_profile': 'Encuentra organismos estatales en USAGov (en inglés)',
+        'agency_directory': 'Organismos estatales de vehículos motorizados en USAGov (en inglés)',
+        'nhtsa_directory': 'Contacto y sitio web de NHTSA en USAGov (en inglés)',
+        'fmcsa_directory': 'Contacto y sitio web de FMCSA en USAGov (en inglés)',
         'json': 'Descargar el inventario completo de fuentes (JSON)', 'back': 'Volver arriba',
-        'moved': 'Algunas direcciones antiguas ya no están disponibles. Donde se indica, enlazamos una referencia oficial actual; esto no significa que sea la misma publicación. Las citas originales se conservan en el inventario descargable.',
-        'alternative': 'Referencia oficial actual sobre este tema (la dirección original no está disponible)',
+        'moved': 'Cuando una dirección citada ha cambiado o puede ser difícil de abrir, incluimos una referencia gubernamental relacionada. El inventario descargable conserva las citas exactas de esta versión de la aplicación.',
+        'alternative': 'Referencia gubernamental relacionada',
     },
 }
 
@@ -44,21 +54,37 @@ def render(locale):
     suffix = '' if locale == 'en' else '-es'
     other = 'sources-es.html' if locale == 'en' else 'sources.html'
     other_label = 'Español' if locale == 'en' else 'English'
+
+    def source_link(source):
+        override = overrides.get(source['url'])
+        title = source['titles'][0]
+        url = source['url']
+        note = ''
+        if override:
+            title = override.get('title', title)
+            url = override['url']
+            note = escape(c['alternative']) + '<br>'
+        address = escape(url, quote=True)
+        return f'<li><strong>{escape(title[locale])}</strong><br>{note}<a href="{address}">{address}</a></li>'
+
     def links(entries):
-        return '<ul class="source-list">' + ''.join(
-            '<li><strong>' + escape(s['titles'][0][locale]) + '</strong><br>'
-            + ('<br><span class="meta">' + c['alternative'] + '</span><br>' if s['url'] in overrides else '')
-            + '<a href="' + escape(overrides.get(s['url'], s)['url'], quote=True) + '">' + escape(overrides.get(s['url'], s)['url']) + '</a></li>'
-            for s in entries
-        ) + '</ul>'
-    sections = '<section id="shared"><h2>' + c['shared'] + '</h2><p>' + c['sharedNote'] + '</p>' + links([s for s in sources if s['shared']]) + '</section>'
+        return '<ul class="source-list">' + ''.join(map(source_link, entries)) + '</ul>'
+    agency_links = (
+        '<p><a href="https://www.usa.gov/agencies/national-highway-traffic-safety-administration">'
+        + c['nhtsa_directory'] + '</a><br>'
+        + '<a href="https://www.usa.gov/agencies/federal-motor-carrier-safety-administration">'
+        + c['fmcsa_directory'] + '</a></p>'
+    )
+    sections = '<section id="shared"><h2>' + c['shared'] + '</h2><p>' + c['sharedNote'] + '</p>' + agency_links + links([s for s in sources if s['shared']]) + '</section>'
     for state in data['states']:
-        sections += '<section id="' + state['code'] + '"><h2>' + escape(state['name'][locale]) + ' (' + state['code'] + ')</h2>' + links([s for s in sources if state['code'] in s['states']]) + '<p><a href="#main">' + c['back'] + '</a></p></section>'
+        state_slug = state['name']['en'].lower().replace(' ', '-')
+        state_profile = f'<p><a href="https://www.usa.gov/states/{state_slug}">{c["state_profile"]}</a></p>'
+        sections += '<section id="' + state['code'] + '"><h2>' + escape(state['name'][locale]) + ' (' + state['code'] + ')</h2>' + state_profile + links([s for s in sources if state['code'] in s['states']]) + '<p><a href="#main">' + c['back'] + '</a></p></section>'
     jump = '<nav class="state-index" aria-label="' + c['jump'] + '"><a href="#shared">' + ('Shared' if locale == 'en' else 'Compartidas') + '</a>' + ''.join('<a href="#' + s['code'] + '">' + escape(s['name'][locale]) + '</a>' for s in data['states']) + '</nav>'
     html = f'''<!doctype html>
 <html lang="{locale}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="{c['title']} · DMV Prep"><title>{c['title']} · DMV Prep</title><link rel="icon" href="icon.png"><link rel="stylesheet" href="styles.css"></head>
 <body><a class="skip" href="#main">{c['jump']}</a><div class="wrap"><header><a class="brand" href="index.html"><img src="icon.png" width="50" height="50" alt="">DMV Prep</a><nav aria-label="Navigation"><a href="support{suffix}.html">{c['support']}</a><a href="privacy{suffix}.html">{c['privacy']}</a><a href="{other}" lang="{'es' if locale == 'en' else 'en'}">{other_label}</a></nav></header>
-<main id="main"><h1>{c['title']}</h1><div class="card"><p>{c['disclaimer']}</p></div><p class="lead">{c['intro']}</p><p>{c['scope']}</p><p>{c['external']}</p><p>{c['moved']}</p><p class="meta">{c['date']}</p><p><a href="sources.json">{c['json']}</a></p><h2>{c['jump']}</h2>{jump}{sections}</main>
+<main id="main"><h1>{c['title']}</h1><div class="card"><p>{c['disclaimer']}</p></div><p class="lead">{c['intro']}</p><p>{c['scope']}</p><p>{c['external']}</p><p>{c['moved']}</p><p>{c['access']}</p><p><a href="https://www.usa.gov/state-motor-vehicle-services">{c['agency_directory']}</a></p><p class="meta">{c['date']}</p><p><a href="sources.json">{c['json']}</a></p><h2>{c['jump']}</h2>{jump}{sections}</main>
 <footer><p>{c['disclaimer']}</p><p>© 2026 MD Teknoloji Bilişim ve Ticaret Anonim Şirketi</p></footer></div></body></html>
 '''
     for source in sources:
