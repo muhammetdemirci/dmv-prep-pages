@@ -14,5 +14,45 @@
   "https://comptroller.aem.tn.extglb.tn.gov/veteran/veteran-benefits/tn-state-benefits/motor-services/parking-privileges.html": {
     "url": "https://www.tn.gov/veteran/veteran-benefits/tn-state-benefits/motor-services/parking-privileges.html",
     "reason": "Replace an infrastructure hostname with a certificate mismatch with the public Tennessee government URL for the same parking-privileges page."
+  },
+  "https://code.wvlegislature.gov/17B-2-3A/": {
+    "url": "https://dmv.wv.gov/minimum-age-obtain-drivers-license",
+    "reason": "The legislature host redirected outside the publisher during anonymous testing. The DMV explains graduated licensing and publishes the minimum ages.",
+    "title": {
+      "en": "West Virginia Code § 17B-2-3a — graduated driver’s license",
+      "es": "Código de Virginia Occidental § 17B-2-3a — licencia gradual"
+    }
+  },
+  "https://code.wvlegislature.gov/17C-13-3/": {
+    "url": "https://dmv.wv.gov/procedures-drivers-licenses",
+    "reason": "The legislature host redirected outside the publisher. The WV DMV publishes the current Driver’s Licensing Handbook from this page.",
+    "title": {
+      "en": "West Virginia Code § 17C-13-3 — stopping and parking",
+      "es": "Código de Virginia Occidental § 17C-13-3 — detención y estacionamiento"
+    }
+  },
+  "https://code.wvlegislature.gov/17C-15-2/": {
+    "url": "https://dmv.wv.gov/procedures-drivers-licenses",
+    "reason": "The legislature host redirected outside the publisher. The WV DMV publishes the current Driver’s Licensing Handbook from this page.",
+    "title": {
+      "en": "West Virginia Code § 17C-15-2 — vehicle lights",
+      "es": "Código de Virginia Occidental § 17C-15-2 — luces del vehículo"
+    }
+  },
+  "https://ohiobmv.gov/dl-gdl.aspx": {
+    "url": "https://odh.ohio.gov/know-our-programs/child-injury-Prevention/teen-driving",
+    "reason": "The original returned a Request Rejected page with HTTP 200. The Ohio Department of Health publishes an alternative overview of graduated licensing and the written-test requirement."
+  },
+  "https://online.dmv.alaska.gov/practiceknowledgetest/": {
+    "url": "https://dmv.alaska.gov/credential-services/your-first-alaska-drivers-license/",
+    "reason": "The original returned a Request Rejected page with HTTP 200. The parent Alaska DMV page describes the knowledge test and links to the DMV practice test."
+  },
+  "https://webserver.rilegislature.gov/Statutes/TITLE31/31-21/31-21-4.htm": {
+    "url": "https://dmv.ri.gov/node/1171",
+    "reason": "Direct requests to the legislature timed out. The Rhode Island DMV publishes the stopping and parking chapter of its driver manual at this address.",
+    "title": {
+      "en": "Rhode Island General Laws § 31-21-4 — stopping and parking",
+      "es": "Leyes generales de Rhode Island § 31-21-4 — detención y estacionamiento"
+    }
   }
 }
